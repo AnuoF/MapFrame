@@ -1,0 +1,1550 @@
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\log4net.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\System.Data.SQLite.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ZC57S.ZKNetLibrary.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\GlobleSituation.exe.config
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.csproj.ResolveComReference.cache
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.Config.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.ADF.Local.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Animation.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.AxControls.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Carto.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Controls.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesFile.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Display.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geodatabase.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geometry.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GISClient.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GlobeCore.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Output.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Server.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.System.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.SystemUI.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Version.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Config\GlobeConfig.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.Data.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.Office.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Drawing.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.Printing.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.RichEdit.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.Sparkline.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.Utils.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraBars.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraEditors.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraGrid.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraLayout.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraNavBar.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraPrinting.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraTreeList.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Image\plane.png
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Image\warn.wav
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\admin.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cities.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\continent.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\country.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\country.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\region.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\region.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\world30.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\World Map.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\World Map.mxd
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\Maps\world\World Map.pmf
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\ModelFile\plane.3ds
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\ModelFile\satellite.3ds
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\ModelFile\tank.3ds
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\1.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\10.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\2.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\3.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\4.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\5.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\6.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\7.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\8.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\波束运动情况\9.log
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\GlobleSituation.exe
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\GlobleSituation.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\bin\Debug\MapFrame.Logic.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.Common.ColorDialogEx.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.Properties.Resources.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAbout.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaManager.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkAdd.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkMgr.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatCalculate.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatConvert.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmMain.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealData.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSet.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSplash.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnInfo.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnRule.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnSet.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BeamDataControl.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BookmarkAddControl.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DataContainerControl.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DisplayMgrControl.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxGlobeControlEx.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.uc_HistoryDataCtrl.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.LayersControl.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MainControl.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxMapControlEx.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.RealDataListControl.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.csproj.GenerateResource.Cache
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.exe
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MapGlobeContainer.resources
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.Config.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.ADF.Local.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Animation.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.AxControls.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Carto.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Controls.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesFile.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Display.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geodatabase.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geometry.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GISClient.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GlobeCore.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Output.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Server.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.System.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.SystemUI.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Version.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\log4net.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\System.Data.SQLite.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\AddIn\ZC57S.ZKNetLibrary.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Config\GlobeConfig.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.Data.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.Office.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Drawing.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.Printing.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.RichEdit.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.Sparkline.v15.2.Core.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.Utils.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraBars.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraEditors.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraGrid.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraLayout.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraNavBar.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraPrinting.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraTreeList.v15.2.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Image\plane.png
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Image\warn.wav
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\admin.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cities.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\continent.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\country.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\country.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\region.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\region.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\world30.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.prj
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdi
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\World Map.lyr
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\World Map.mxd
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\Maps\world\World Map.pmf
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\ModelFile\plane.3ds
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\ModelFile\satellite.3ds
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\ModelFile\tank.3ds
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\1.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\10.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\2.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\3.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\4.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\5.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\6.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\7.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\8.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\波束运动情况\9.log
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\GlobleSituation.exe.config
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\GlobleSituation.exe
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\GlobleSituation.pdb
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\Src\GlobleSituation\bin\Debug\MapFrame.Logic.xml
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.csproj.ResolveComReference.cache
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.Common.ColorDialogEx.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.Properties.Resources.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAbout.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaManager.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkAdd.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkMgr.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatCalculate.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatConvert.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmMain.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealData.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSet.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSplash.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnInfo.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnRule.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnSet.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BeamDataControl.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BookmarkAddControl.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DataContainerControl.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DisplayMgrControl.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxGlobeControlEx.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MapGlobeContainer.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.uc_HistoryDataCtrl.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.LayersControl.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MainControl.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxMapControlEx.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.RealDataListControl.resources
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.csproj.GenerateResource.Cache
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.exe
+D:\SVN_DIR\Src\GlobleSituation\obj\x86\Debug\GlobleSituation.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\log4net.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\System.Data.SQLite.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ZC57S.ZKNetLibrary.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.AxControls.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Carto.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Controls.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesFile.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Display.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Geodatabase.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Geometry.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GlobeCore.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Output.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Server.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.System.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.SystemUI.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Version.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.Config.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.ADF.Local.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Animation.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.AxControls.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Carto.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Controls.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesFile.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Display.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geodatabase.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geometry.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GISClient.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GlobeCore.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Output.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Server.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.System.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.SystemUI.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Version.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Config\GlobeConfig.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Charts.v15.2.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Data.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Office.v15.2.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Drawing.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Printing.v15.2.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.RichEdit.v15.2.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Sparkline.v15.2.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Utils.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraBars.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.UI.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.UI.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraEditors.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraGrid.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraLayout.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraNavBar.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraPrinting.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraTreeList.v15.2.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.ADF.Local.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Animation.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GISClient.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Image\plane.png
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Image\warn.wav
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.mxd
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.pmf
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ModelFile\plane.3ds
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ModelFile\satellite.3ds
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\ModelFile\tank.3ds
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\1.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\10.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\2.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\3.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\4.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\5.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\6.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\7.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\8.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\波束运动情况\9.log
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.exe.config
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.exe
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\GMap.NET.WindowsForms.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\GMap.NET.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\GMap.NET.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.Common.ColorDialogEx.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.Properties.Resources.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAbout.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaChart.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaManager.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkAdd.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkMgr.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatCalculate.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatConvert.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmMain.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealData.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealDataCount.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSet.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSplash.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnInfo.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnRule.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnSet.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BeamDataControl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BookmarkAddControl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DataContainerControl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DataPlayControl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DeviceDataList.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DisplayMgrControl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxGlobeControlEx.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.GMapControlEx.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.HistoryContainer.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MapGlobeContainer.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.uc_HistoryDataCtrl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.LayersControl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MainControl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxMapControlEx.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.RealDataListControl.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.csproj.GenerateResource.Cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.exe.licenses
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.exe
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\bin\Debug\Config\log4net.config
+D:\SVN_DIR\04编码\0401源代码\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnStat.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.exe.config
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.exe
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.AxControls.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Carto.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Controls.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Display.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Geometry.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Output.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Server.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.System.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.SystemUI.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Version.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Config.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.ADF.Local.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Animation.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.AxControls.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Carto.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Controls.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Display.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geometry.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GISClient.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Output.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Server.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.System.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.SystemUI.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Version.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\log4net.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\System.Data.SQLite.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ZC57S.ZKNetLibrary.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Charts.v15.2.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Data.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Office.v15.2.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Drawing.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Printing.v15.2.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.RichEdit.v15.2.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Sparkline.v15.2.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Utils.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraBars.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.UI.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraEditors.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraGrid.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraLayout.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraNavBar.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraPrinting.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraTreeList.v15.2.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.ADF.Local.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Animation.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GISClient.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Image\plane.png
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Image\warn.wav
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Config\log4net.config
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.mxd
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.pmf
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\plane.3ds
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\satellite.3ds
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\tank.3ds
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\1.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\10.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\2.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\3.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\4.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\5.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\6.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\7.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\8.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\9.log
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\Config\GlobeConfig.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.exe
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.csprojResolveAssemblyReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.Common.ColorDialogEx.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.Properties.Resources.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAbout.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaChart.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaManager.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkAdd.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkMgr.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatCalculate.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatConvert.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmMain.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealData.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealDataCount.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSet.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSplash.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnInfo.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnRule.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnSet.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnStat.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BeamDataControl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BookmarkAddControl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DataContainerControl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DataPlayControl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DeviceDataList.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DisplayMgrControl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxGlobeControlEx.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.GMapControlEx.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.HistoryContainer.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MapGlobeContainer.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.uc_HistoryDataCtrl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.LayersControl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MainControl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxMapControlEx.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.RealDataListControl.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.csproj.GenerateResource.Cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.exe.licenses
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.exe.config
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.exe
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.pdb
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.AxControls.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Carto.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Controls.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Display.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Geometry.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Output.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Server.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.System.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.SystemUI.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Version.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Config.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.ADF.Local.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Animation.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.AxControls.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Carto.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Controls.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Display.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geometry.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GISClient.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Output.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Server.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.System.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.SystemUI.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Version.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\log4net.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\System.Data.SQLite.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ZC57S.ZKNetLibrary.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Config\GlobeConfig.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Charts.v15.2.Core.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Data.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Office.v15.2.Core.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Core.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Drawing.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Printing.v15.2.Core.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.RichEdit.v15.2.Core.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Sparkline.v15.2.Core.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Utils.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraBars.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.UI.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraEditors.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraGrid.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraLayout.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraNavBar.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraPrinting.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraTreeList.v15.2.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.ADF.Local.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Animation.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GISClient.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Image\plane.png
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Image\warn.wav
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Config\log4net.config
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.prj
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdi
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.lyr
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.mxd
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.pmf
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\plane.3ds
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\satellite.3ds
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\tank.3ds
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\1.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\10.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\2.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\3.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\4.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\5.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\6.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\7.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\8.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\9.log
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.exe
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.pdb
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.Core.dll
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.pdb
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.pdb
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.pdb
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.xml
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.Core.pdb
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.csprojResolveAssemblyReference.cache
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.Common.ColorDialogEx.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.Properties.Resources.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAbout.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaChart.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaManager.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkAdd.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkMgr.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatCalculate.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatConvert.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmMain.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealData.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealDataCount.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSet.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSplash.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnInfo.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnRule.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnSet.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnStat.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BeamDataControl.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BookmarkAddControl.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DataContainerControl.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DeviceDataList.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DisplayMgrControl.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxGlobeControlEx.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.GMapControlEx.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.HistoryContainer.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MapGlobeContainer.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.uc_HistoryDataCtrl.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.LayersControl.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MainControl.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxMapControlEx.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.RealDataListControl.resources
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.csproj.GenerateResource.Cache
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.exe.licenses
+D:\Work\new\3d\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.HistoryDataPlayControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.exe.config
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.exe
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.pdb
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.ADF.Local.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Animation.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.AxControls.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Carto.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Controls.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Display.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Geometry.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GISClient.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Output.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Server.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.System.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.SystemUI.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ESRI.ArcGIS.Version.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\log4net.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\System.Data.SQLite.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\AddIn\ZC57S.ZKNetLibrary.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Charts.v15.2.Core.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Data.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Office.v15.2.Core.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Core.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Pdf.v15.2.Drawing.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Printing.v15.2.Core.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.RichEdit.v15.2.Core.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Sparkline.v15.2.Core.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.Utils.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraBars.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.UI.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraCharts.v15.2.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraEditors.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraGrid.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraLayout.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraNavBar.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraPrinting.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\DevExpress\DevExpress.XtraTreeList.v15.2.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.ADF.Local.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Animation.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.AxControls.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Carto.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Controls.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Display.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Geometry.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GISClient.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Output.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Server.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.System.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.SystemUI.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ESRI\ESRI.ArcGIS.Version.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Image\plane.png
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Image\warn.wav
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Config\log4net.config
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\10 x 10 Degree Graticule.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Areas.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\1992 Country Boundaries.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\admin.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Adminstrative Boundaries.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cities.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry04.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntry92.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\cntrywch.dbf
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\continent.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Continents.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Countries.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Country Outlines.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\country.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Drainage Systems.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\drainage.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Energy Consumption Per Capita.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\gaz.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\geogrid.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\GeoReference Lines.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\lakes.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Land Areas.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\latlong.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Lakes.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Major Rivers.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Male - Female Ratio.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Marine Biomes.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Ocean Background.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\pol_org.dbf
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Populated Places.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Population by State-Province.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\region.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\rivers.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\States and Provinces.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\Terrestrial Biomes.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\timezone.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UN Membership.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\UTM Grid.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\utmzone.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Cities.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Regions.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\World Time Zones.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\world30.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_mar.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdc.prj
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\data\wwf_terr.sdi
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.mxd
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\world\World Map.pmf
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\plane.3ds
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\satellite.3ds
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Config.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Config\GlobeConfig.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Image\TTMITC.TTF
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\car.3ds
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\ship.3ds
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\1.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\10.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\2.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\3.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\4.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\5.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\6.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\7.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\8.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\波束运动情况\9.log
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.exe
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\GlobleSituation.pdb
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.Core.dll
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.pdb
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Core.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.pdb
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.GMap.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.pdb
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\MapFrame.Logic.xml
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\GMap.NET.Core.pdb
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.csprojResolveAssemblyReference.cache
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.Common.ColorDialogEx.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.Properties.Resources.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAbout.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaChart.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmAreaManager.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkAdd.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmBookmarkMgr.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatCalculate.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmLngLatConvert.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmMain.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealData.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmRealDataCount.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSet.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmSplash.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnInfo.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnRule.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnSet.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.frmWarnStat.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BeamDataControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.BookmarkAddControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DataContainerControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.HistoryDataPlayControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DeviceDataList.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.DisplayMgrControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxGlobeControlEx.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.GMapControlEx.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.HistoryContainer.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MapGlobeContainer.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.uc_HistoryDataCtrl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.LayersControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.MainControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.AxMapControlEx.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.UI.RealDataListControl.resources
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.csproj.GenerateResource.Cache
+D:\Work\Svn\Src\MapFrame\GlobleSituation\obj\x86\Debug\GlobleSituation.exe.licenses
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\default.3dd
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\north.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\Maps\south.lyr
+D:\Work\Svn\Src\MapFrame\GlobleSituation\bin\Debug\ModelFile\station.3DS

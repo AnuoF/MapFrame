@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Globe>
+  <Config>
+    <TCPServer note="态势数据服务端信息，可配置多个服务端节点">
+      <Server Ip="169.254.185.202" Port="5005"></Server>
+      <Server Ip="169.254.74.5" Port="5005"></Server>
+      <Server Ip="127.0.0.1" Port="5005"></Server>
+
+    </TCPServer>
+    <StartWarn note="是否接受预警数据">true</StartWarn>
+    <StartSound note="是否启动预警声音">true</StartSound>
+    <StartTip note="是否启动预警气泡">true</StartTip>
+    <TrackPointLimit note="航迹点最大点数">15</TrackPointLimit>
+    <PlaneModelScale note="飞机模型大小比例">50000</PlaneModelScale>
+    <SallteModelScale note="卫星模型大小比例">100000</SallteModelScale>
+    <BeamAlpha note="波束透明度 0-250">20</BeamAlpha>
+    <BeamRadius note="波束覆盖半径（公里）">500</BeamRadius>
+    <StepValue note="绘制波束图元时的步进值，值越小越圆,取值应该被180整除">4</StepValue>
+    <StroreInfo note="存储服务信息" Ip="169.254.185.202" Port="6006"></StroreInfo>
+
+    <ArcGIS_Server note="切片图服务器地址">
+      <Server name="谷歌全球 0-9">http://169.254.45.18:6080/arcgis/services/ggdzserver/ImageServer</Server>
+     
+    </ArcGIS_Server>
+
+    <Server name="中国">http://169.254.45.18:6080/arcgis/services/china0914/ImageServer</Server>
+    <Server name="上海">http://169.254.45.18:6080/arcgis/services/sh1519/ImageServer</Server>
+    <!--<Server name="全球2-9">http://169.254.45.18:6080/arcgis/services/WorldMap09_2/ImageServer</Server>-->
+    <!--<Server name="谷歌0-5">http://169.254.5.159:6080/arcgis/services/googledz/ImageServer</Server>-->
+
+
+  </Config>
+</Globe>

@@ -1,0 +1,1810 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+	<Esri>
+		<MetaID>{629D951C-5798-4505-95EA-7D3B925738CA}</MetaID>
+		<CreaDate>20000920</CreaDate>
+		<CreaTime>15021200</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20021101</SyncDate>
+		<SyncTime>20470800</SyncTime>
+		<ModDate>20040311</ModDate>
+		<ModTime>21583300</ModTime>
+		<Sync>FALSE</Sync>
+		<PublishedDocID>{299A6768-BA41-4533-AA11-B5E3AEAB9F8E}</PublishedDocID>
+	</Esri>
+	<idinfo>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 8.2.0.700</native>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>CountryWatch Demographics (table) represents a vast amount of recent demographic information for the countries recognized by the U.S. State Department.</abstract>
+			<purpose>CountryWatch Demographics (table) provides geography, population, social indicators, economy, key sectors of each economy and the environment. To display CountryWatch Demographic attributes on a map, join this table to a World Countries attribute table using Fips_cntry or Cntry_name as the common field.</purpose>
+		</descript>
+		<citation>
+			<citeinfo>
+				<origin>CountryWatch.com</origin>
+				<pubdate>20040301</pubdate>
+				<title>CountryWatch Demographics (table)</title>
+				<ftname Sync="TRUE">cntrywch</ftname>
+				<geoform Sync="TRUE">tabular digital data</geoform>
+				<edition>2004</edition>
+				<serinfo>
+					<sername>ESRI® Data &amp; Maps</sername>
+					<issue>2004</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<othercit>Location: \world</othercit>
+				<origin>ESRI</origin>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>publication date: 20001018, 20000101, 20000225, 20010128, 20020314, 20021115, 2003; ground condition: 2000, 1997, 2000, 1999, 2000, 1995, 1999, 2000, 1999, 1997, 1998, 1998</current>
+			<timeinfo>
+				<mdattim>
+					<sngdate>
+						<caldate>20001018</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20000101</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20000225</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20010128</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20020314</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2000</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1997</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2000</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1999</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2000</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1995</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1999</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2000</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1999</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1997</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1998</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1998</caldate>
+					</sngdate>
+					<sngdate><caldate>20021115</caldate></sngdate><sngdate><caldate>2003</caldate></sngdate></mdattim>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Matches software update releases</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-180.000000</westbc>
+				<eastbc Sync="TRUE">180.000000</eastbc>
+				<northbc Sync="TRUE">83.623596</northbc>
+				<southbc Sync="TRUE">-90.000000</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>table</themekey>
+				<themekey>demographics</themekey>
+				<themekey>populations</themekey>
+				<themekey>social indicators</themekey>
+				<themekey>economic indicators</themekey>
+				<themekey>economic key sectors</themekey>
+				<themekey>environmental indicators</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<place>
+				<placekey>World</placekey>
+				<placekt>None</placekt>
+			</place>
+			<temporal>
+				<tempkey>2000</tempkey>
+				<tempkt>None</tempkt>
+				<tempkey>2000</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>1997</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>1999</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>1995</tempkey>
+				<tempkey>1999</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>1999</tempkey>
+				<tempkey>1997</tempkey>
+				<tempkey>1998</tempkey>
+				<tempkey>1998</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>2001</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2002</tempkey><tempkey>2003</tempkey></temporal>
+		</keywords>
+		<accconst>Access granted to Licensee only.</accconst>
+		<useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s). 
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+		<natvform Sync="TRUE">dBASE Table</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>Data Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>8:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
+				<cntinst>In the United States–
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntper>Data Team</cntper>
+					<cntorg>ESRI</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<address>380 New York Street</address>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>8:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20040311</metd>
+		<metextns>
+			<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<eainfo>
+		<detailed Name="cntrywch">
+			<enttyp>
+				<enttypl Sync="TRUE">cntrywch</enttypl>
+				<enttypt Sync="TRUE">Table</enttypt>
+				<enttypc Sync="TRUE">250</enttypc>
+				<enttypd>The table represents recent demographic information for the countries recognized by the U.S. State Department.</enttypd>
+				<enttypds>CountryWatch.com</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">OID</attrlabl>
+				<attalias Sync="TRUE">OID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">FIPS_CNTRY</attrlabl>
+				<attalias Sync="TRUE">FIPS_CNTRY</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards Publication 10-4</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrdef>The code (two-letter) for the country, dependency, area of special sovereignty, and their principal administrative divisions. Source: Office of the Geographer and Global Issues (Department of State).</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CNTRY_NAME</attrlabl>
+				<attalias Sync="TRUE">CNTRY_NAME</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">40</attwidth>
+				<attrdef>The short form of the name of the country as approved by the U.S. Board on Geographic Names. Source: Office of the Geographer and Global Issues (Department of State).</attrdef>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">POLITI_MAP</attrlabl>
+				<attalias Sync="TRUE">POLITI_MAP</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdefs>ESRI</attrdefs>
+				<attrdef>The number allows the country to be shaded unique from its neighbors.</attrdef>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>8</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CW_DATA</attrlabl>
+				<attalias Sync="TRUE">CW_DATA</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>Data for this country is provided by CountryWatch.com.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+					<edom>
+						<edomvds>ESRI</edomvds>
+						<edomvd>Data for this country is not provided by CountryWatch.com.</edomvd>
+						<edomv>No</edomv>
+					</edom>
+				</attrdomv>
+				<attrdef>Indicates if data for this country is provided by CountryWatch.com.</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SQKM</attrlabl>
+				<attalias Sync="TRUE">SQKM</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The sum of all land and water areas in square kilometers delimited by international boundaries and/or coastlines.  Source: The World Factbook 2000, Central Intelligence Agency.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">COAST_KM</attrlabl>
+				<attalias Sync="TRUE">COAST_KM</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The total length of the boundary in kilometers between the land area (including islands) and the sea.  Source: The World Factbook 2000, Central Intelligence Agency.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">TOTPOP00</attrlabl>
+				<attalias Sync="TRUE">TOTPOP00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The total population usually refers to the present-in-area (de facto) population which, includes all persons physically present within the present geographical boundaries of countries at the mid-point of the reference period - generally midyear.  Source: US Census Bureau International Database - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GRWTHRAT00</attrlabl>
+				<attalias Sync="TRUE">GRWTHRAT00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">11</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The average annual percent change in the population, resulting from a surplus (or deficit) of births over deaths and the balance of migrants entering and leaving a country. The rate may be positive or negative. The growth rate is a factor in determining how great a burden would be imposed on a country by the changing needs of its people for infrastructure (e.g., schools, hospitals, housing, roads), resources (e.g., food, water, electricity), and jobs. Rapid population growth can be seen as threatening by neighboring countries. Source: CountryWatch Calculations Based on US Census Bureau International Database - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERURBAN00</attrlabl>
+				<attalias Sync="TRUE">PERURBAN00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The ratio of the urban population divided by the total population expressed as a percent. Usually the urban area is defined and the residual from the total population is taken as rural. In practice, the criteria adopted for distinguishing between urban and rural areas vary among countries. However, these criteria can be roughly divided into three major groups: classification of localities of a certain size as urban; classification of administrative centres of minor civil divisions as urban; and classification of centres of minor civil divisions on a chosen criterion which may include type of local government, number of inhabitants or proportion of population engaged in agriculture. Thus, the urban and rural population estimates in this domain are based on the varying national definitions of urban areas. Source: Food and Agriculture Organization of the United Nations - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">POPDENS00</attrlabl>
+				<attalias Sync="TRUE">POPDENS00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">13</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The population in 2000 divided by the total area of the country. Provides a rough estimate of the average number of persons per square kilometer.  Source: CountryWatch Calculations Based on The World Factbook 2000, CIA total area data and US Census Bureau, International Database.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PER0_14_00</attrlabl>
+				<attalias Sync="TRUE">PER0_14_00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The distribution of the population 0-14 years. The age structure of a population affects a nation's key socioeconomic issues. Countries with young populations (high percentage under age 15) need to invest more in schools, while countries with older populations (high percentage ages 60 and over) need to invest more in the health sector. The age structure can also be used to help predict potential political issues. For example, the rapid growth of a young adult population unable to find employment can lead to unrest.  Source: Bureau of Census, International Database and CountryWatch calculations - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PER15_5900</attrlabl>
+				<attalias Sync="TRUE">PER15_5900</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">13</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The distribution of the population between 15-59 years. The age structure of a population affects a nation's key socioeconomic issues. Countries with young populations (high percentage under age 15) need to invest more in schools, while countries with older populations (high percentage ages 60 and over) need to invest more in the health sector. The age structure can also be used to help predict potential political issues. For example, the rapid growth of a young adult population unable to find employment can lead to unrest.  Source: Bureau of Census, International Database and CountryWatch calculations - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PER60_UP00</attrlabl>
+				<attalias Sync="TRUE">PER60_UP00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">11</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The distribution of the population 60 years old and over. The age structure of a population affects a nation's key socioeconomic issues. Countries with young populations (high percentage under age 15) need to invest more in schools, while countries with older populations (high percentage ages 60 and over) need to invest more in the health sector. The age structure can also be used to help predict potential political issues. For example, the rapid growth of a young adult population unable to find employment can lead to unrest.  Source: Bureau of Census, International Database and CountryWatch calculations - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">DEPRATIO00</attrlabl>
+				<attalias Sync="TRUE">DEPRATIO00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The ratio of the population below the age of 14 and over the age of 60 divided by the population between the ages of 15 and 59.  This is a rough measure to determine the size of the dependent population relative to the working population. Source: Bureau of Census, International Database with CountryWatch Calculations - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">FERTRATE99</attrlabl>
+				<attalias Sync="TRUE">FERTRATE99</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The number of live births/number of women 15-45.  Source: World Health Organization, World Health Report, Statistical Annex - 1999 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">BRTHRATE00</attrlabl>
+				<attalias Sync="TRUE">BRTHRATE00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The average annual number of births during a year per 1,000 persons in the population at midyear; also known as crude birth rate. The birth rate is usually the dominant factor in determining the rate of population growth. It depends on both the level of fertility and the age structure of the population.  Source: The World Factbook 2000, Central Intelligence Agency - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NET_MIGR00</attrlabl>
+				<attalias Sync="TRUE">NET_MIGR00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The immigration into a country less the emigration out per 1,000 persons in the population at midyear.  Source: The World Factbook 2000, Central Intelligence Agency - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">DEATHRAT00</attrlabl>
+				<attalias Sync="TRUE">DEATHRAT00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">13</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The average annual number of deaths during a year per 1,000 population at midyear; also known as crude death rate. The death rate, while only a rough indicator of the mortality situation in a country, accurately indicates the current mortality impact on population growth. This indicator is significantly affected by age distribution, and most countries will eventually show a rise in the overall death rate, in spite of continued decline in mortality at all ages, as declining fertility results in an aging population. Source: The World Factbook 2000, Central Intelligence Agency - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LIFE_EXP00</attrlabl>
+				<attalias Sync="TRUE">LIFE_EXP00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The number of years a newborn infant would live if prevailing conditions of mortality at the time of birth were to stay the same throughout the child's life.  Source: The World Factbook 2000, Central Intelligence Agency - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">FEMLFEXP00</attrlabl>
+				<attalias Sync="TRUE">FEMLFEXP00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The number of years a newborn female infant would live if prevailing conditions of mortality at the time of birth were to stay the same throughout the child's life.  Source: The World Factbook 2000, Central Intelligence Agency - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MALLFEXP00</attrlabl>
+				<attalias Sync="TRUE">MALLFEXP00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The number of years a newborn male infant would live if prevailing conditions of mortality at the time of birth were to stay the same throughout the child's life.  Source: The World Factbook 2000, Central Intelligence Agency - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ADJ_EXP99</attrlabl>
+				<attalias Sync="TRUE">ADJ_EXP99</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The disability-adjusted life expectancy in years is the expectation of life lived in equivalent full health.  Source: World Health Organization, World Health Report, Statistical Annex - 1999 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INF_MORT00</attrlabl>
+				<attalias Sync="TRUE">INF_MORT00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">13</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The number of deaths of infants under one year old in a given year per 1,000 live births in the same year. This rate is often used an indicator of the level of health in a country. Source: The World Factbook 2000, Central Intelligence Agency - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SEXRATIO00</attrlabl>
+				<attalias Sync="TRUE">SEXRATIO00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">11</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The ratio of the entire male population divided by the entire female population multiplied by 100. Source: Bureau of Census, International Database with CountryWatch calculations - 2000 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">LIT_RATE00</attrlabl>
+				<attalias Sync="TRUE">LIT_RATE00</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The ratio of the literate population divided by the total population.  Literacy: This entry includes a definition of literacy and Census Bureau percentages for the total population, males, and females. There are no universal definitions and standards of literacy. Unless otherwise specified, all rates are based on the most common definition - the ability to read and write at a specified age. Information on literacy, while not a perfect measure of educational results, is probably the most easily available and valid for international comparisons. Low levels of literacy, and education in general, can impede the economic development of a country in the current rapidly changing, technology-driven world.  Source: The World Factbook 2000, Central Intelligence Agency  (estimated over various years).</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EDU_LEVL95</attrlabl>
+				<attalias Sync="TRUE">EDU_LEVL95</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The percentage of the population that achieved tertiary enrollment. The data reflect the attainment rates for the population that is over the age of 25. Attainment rates do not imply that all students completed this level of education. Tertiary education includes universities, teachers' colleges, and higher professional schools.  Source: Higher Education in Developing Countries (2000 report), The Task Force on Higher Education and Society; The International Bank for Reconstruction and Development, World Bank; UNESCO - 1995 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GDP_99</attrlabl>
+				<attalias Sync="TRUE">GDP_99</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">9</attwidth>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The nominal productive capacity of a given country in billions of U.S. dollars.  The Gross Domestic Production (GDP) measures the value of all final goods and services produced within a nation in a given year. Estimates by CountryWatch.com of real GDP in most countries are  made by converting estimates by the US Central Intelligence Agency (CIA) of the purchasing power parity value of GDP for a reference year for each country to a 1995 base through the use of the US GDP deflator. CIA reference year estimates of real GDP for most countries are given in the 2000 edition of the CIA World Factbook for years ranging from 1993 to 1999. The time series estimates for the years from 1995 to 1999 are generated for non reference year values by utilizing the real GDP growth rates for 1995-1999 given by the International Monetary Fund (IMF) in the May 2000 edition of the World Economic Outlook. Exceptions to this method were used for: Bosnia-Herzegovina, Nauru, Cuba, Palau, Holy See, San Marino, North Korea, Serbia &amp; Montenegro, Liberia, Somalia, Liechtenstein, Tonga, Monaco, Tuvalu. In these cases, the data on growth rates for these countries are not available so we cannot update the CIA World Fact Book Purchasing Power Parity Real GDP numbers to the latest year using our standard methodology. Therefore, we employ a method of estimating the economies' growth rates based upon data on output of key sectors of each economy which provides for a consistent methodology for all countries and a reasonable measure of economic growth.  Source: IMF World Economic Outlook; CountryWatch Calculations - 1999 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GDPGRWRT99</attrlabl>
+				<attalias Sync="TRUE">GDPGRWRT99</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The rate of change of the productive capacity of a given country.  It is calculated by determining the gross change in GDP from one year to the next and dividing this delta by the previous year's GDP.  See notes for GDP_99 attribute calculation.  Source: IMF World Economic Outlook; CountryWatch Calculations - 1999 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GDP_PCAP99</attrlabl>
+				<attalias Sync="TRUE">GDP_PCAP99</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The standard of living in a given country in U.S. dollars.  The Gross Domestic Production (GDP) measures the value of all final goods and services produced within a nation in a given year and a per capita adjustment normalizes this variable by population. GDP is determined through the use of the Purchase Power Parity formulas (PPP). The PPP method involves the use of standardized international dollar price weights, which are applied to the quantities of final goods and services produced in a given economy.  The data derived from the PPP method provide the best available starting point for comparisons of economic strength and well being between countries.  Source: IMF, World Economic Outlook, May 2000; CountryWatch.com Calculations - 1999 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GDP_PCGR99</attrlabl>
+				<attalias Sync="TRUE">GDP_PCGR99</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The rate of improvement of the standard of living in a given country.  The Gross Domestic Production (GDP) measures the value of all final goods and services produced within a nation in a given year and a per capita adjustment normalizes this variable by population.  GDP is determined through the use of the Purchase Power Parity formulas (PPP). The PPP method involves the use of standardized international dollar price weights, which are applied to the quantities of final goods and services produced in a given economy.  The data derived from the PPP method provide the best available starting point for comparisons of economic strength and well being between countries.  Source: IMF, World Economic Outlook, May 2000; CountryWatch.com Calculations - 1999 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">IMPORTS_99</attrlabl>
+				<attalias Sync="TRUE">IMPORTS_99</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">9</attwidth>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The total imports of the country in millions of U.S. dollars obtained by summing the figures shown for its trade imports with all trade partner countries and then aggregated.  Source: IMF, Direction of Trade and Statistics, 2000; IMF International Financial Statistics - 1999 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EXPORTS_99</attrlabl>
+				<attalias Sync="TRUE">EXPORTS_99</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The total exports of the country in millions of U.S. dollars obtained by summing the figures shown for each countries trade exports with all trade partner countries and then aggregated.  Source: IMF, Direction of Trade and Statistics, 2000; IMF International Financial Statistics - 1999 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ENGCONPC97</attrlabl>
+				<attalias Sync="TRUE">ENGCONPC97</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The total energy consumption in millions of BTUs divided by population.  This total energy consumption statistic includes petroleum, dry natural gas, coal, net hydro, nuclear, geothermal, solar and wind electric power.  Source: US Department of Energy; Bureau of Census, International Data Base - 1997 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">COAL_RES98</attrlabl>
+				<attalias Sync="TRUE">COAL_RES98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The reserves of coal in millions of standard tons measured and indicated coal resources "in place" (in the ground, undisturbed) and occurring at depths and coalbed thicknesses considered potentially minable - 1998 estimate. Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">COALPROD98</attrlabl>
+				<attalias Sync="TRUE">COALPROD98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The equivalent energy of coal in trillions of BTUs produced in 1998 in each country.  Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">COAL_CON98</attrlabl>
+				<attalias Sync="TRUE">COAL_CON98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The equivalent energy of coal in trillions of BTUs consumed in each country.  Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PET_PROD98</attrlabl>
+				<attalias Sync="TRUE">PET_PROD98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The equivalent energy of petroleum products in trillions of BTUs produced in each country. Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PET_CON98</attrlabl>
+				<attalias Sync="TRUE">PET_CON98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The equivalent energy of petroleum products in trillions of BTUs consumed in each country.  Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NGASPROD98</attrlabl>
+				<attalias Sync="TRUE">NGASPROD98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The equivalent energy of natural gas in trillions of BTUs produced in each country.  Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NGAS_CON98</attrlabl>
+				<attalias Sync="TRUE">NGAS_CON98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The equivalent energy of natural gas in trillions of BTUs consumed in each country.  Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ELEC_CON98</attrlabl>
+				<attalias Sync="TRUE">ELEC_CON98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The total electricity in billions of kilowatt-hours consumed in each country.  Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">IRNOPROD98</attrlabl>
+				<attalias Sync="TRUE">IRNOPROD98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The volume of iron ore in millions of metric tons produced in each country. Source: US Geological Survey, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GGAS_EMS98</attrlabl>
+				<attalias Sync="TRUE">GGAS_EMS98</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atnumdec Sync="TRUE">2</atnumdec>
+				<attrdefs>CountryWatch.com</attrdefs>
+				<attrdef>The total greenhouse gases in millions of metric tons released into the atmosphere from coal, natural gas, and petroleum energy use.  Source: Energy Information Administration, U.S. Department of Energy, 1998 estimate.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>-99.00</edomv>
+						<edomvd>No data.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.110</transize>
+					<dssize Sync="TRUE">0.110</dssize>
+					<formname>dBASE</formname>
+					<filedec>no compression applied</filedec>
+					<formspec>The DBF file contains the attribute data in dBASE® format. The XML file (*.dbf.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>DVD–ROM</offmedia>
+						<reccap>
+							<recden>4.38</recden>
+							<recdenu>GB (gigabytes)</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+					<offoptn>
+						<offmedia>CD–ROM</offmedia>
+						<reccap>
+							<recden>650</recden>
+							<recdenu>MB (megabytes)</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI International Distributors</cntorg>
+				</cntorgp>
+				<cntinst>In the United States, contact the ESRI Telesales staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+			</cntinfo>
+		</distrib>
+		<techpreq>To use this data requires software that supports dBASE® files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>Offline Data</resdesc>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>Country Information Data Sample</title>
+						<origin>CountryWatch.com</origin>
+						<pubdate>20001018</pubdate>
+						<pubinfo>
+							<publish>CountryWatch.com</publish>
+							<pubplace>Houston, Texas, USA</pubplace>
+						</pubinfo>
+						<othercit>Country Information Data Sample is a small sample of a much larger dataset of information that will be available in a searchable format on the CountryWatch.com site (http://www.countrywatch.com) by December 1, 2000.
+
+For more information, contact us at:
+CountryWatch.com
+Three Riverway, Suite 710
+Houston, TX 77056
+phone number: (713) 355-6500
+fax number: (713) 355-2008
+toll-free number: 1-800-879-3885
+http://www.countrywatch.com 
+email:  sales@countrywatch.com
+
+Access to CountryWatch Data:
+CountryWatch.com is an information provider for businesses, schools, universities, libraries and individuals who need up-to-date information and news on the countries of the world and for the public and private sector organizations with global operations and interests. The management of CountryWatch.com has extensive international business and academic experience and, using this experience, has created, in a concise and useful form, a key set of political, economic, and business information for its clients in the form of Country Reviews and the Country Wire.  Country Reviews are updated at least every six months and the Country Wire is updated daily; there are more than 1,000 stories per country (on average) in our one year news wire archive.</othercit>
+						<onlink>http://www.countrywatch.com</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>electronic mail system</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20001018</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>CountryWatch.com</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The CountryWatch.com Country Information Data Sample was created using many sources. The source for each attribute is listed in the attribute definition.
+
+Country Information Data Sample is a small sample of a much larger dataset of information that will be available in a searchable format on the CountryWatch.com site (http://www.countrywatch.com) by December 1, 2000.</procdesc>
+				<srcprod>CountryWatch.com</srcprod>
+				<procdate>20001018</procdate>
+				<srcused>Office of the GGI</srcused>
+				<srcused>CIA Factbook</srcused>
+				<srcused>Census IDB</srcused>
+				<srcused>FAO</srcused>
+				<srcused>WHO</srcused>
+				<srcused>HEDC - World Bank, UNESCO</srcused>
+				<srcused>IBRD - World Bank</srcused>
+				<srcused>IMF</srcused>
+				<srcused>DOE</srcused>
+				<srcused>USGS</srcused>
+			</procstep>
+			<procstep>
+				<procdesc>The following steps were performed by ESRI for Data &amp; Maps 2002: Renamed Serbia and Montenegro to Yugoslavia.  Updated Fips_cntry attribute for East Timor and Yugoslavia.
+
+The following steps were performed by ESRI: Extracted table from CountryWatch.com in an electronic mail system attachment. Renamed several attributes to match attribute names found in World Countries shapefiles. Added records of countries present in the World Countries shapefiles allowing a better match when joining those data sets to this table.  Added Cw_data attribute to show which records were from CountryWatch.com and which were supplied by ESRI.  Added Politi_map attribute. Added the values for the country records supplied by ESRI for attributes Fips_cntry, Cntry_name, Politi_map, and Cw_data. Calculated the values to -99, for the country records supplied by ESRI for all other attributes, to indicate data not supplied by CountryWatch.com. Edited the spelling of the names in the Cntry_name attribute to match names in the World Countries shapefiles.
+
+Note: China and Taiwan are considered one country.  In the World Countries shapefiles they are two separate countries.</procdesc>
+				<procsv>ArcView® GIS 3</procsv>
+				<srcused>CountryWatch.com</srcused>
+				<procdate>20020129</procdate>
+				<srcused>ESFN FIPS 10-4 20000225</srcused>
+				<srcused>ESFN FIPS 10-4 20010128</srcused>
+			</procstep>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Office of the Geographer and Global Issues, United States Department of State</origin>
+						<title>FIPS PUB 10-4; U.S. Board on Geographic Names</title>
+						<pubinfo>
+							<pubplace>Washington, DC, USA</pubplace>
+							<publish>Office of the Geographer and Global Issues, United States Department of State</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srccitea>Office of the GGI</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Central Intelligence Agency</origin>
+						<pubdate>20000101, 2003</pubdate>
+						<title>The World Factbook 2000; 2003</title>
+						<edition>2000</edition>
+						<serinfo>
+							<sername>The World Factbook</sername>
+							<issue>2000; 2003</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Washington, DC, USA</pubplace>
+							<publish>United States Central Intelligence Agency</publish>
+						</pubinfo>
+						<onlink>http://www.cia.gov/cia/publications/factbook/index.html</onlink></citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<mdattim><sngdate><caldate>20000101</caldate></sngdate><sngdate><caldate>2003</caldate></sngdate></mdattim></timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>CIA Factbook</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<typesrc>online</typesrc></srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Department of Commerce, Census Bureau</origin>
+						<pubdate>2000; 1997</pubdate>
+						<title>International Data Base (IDB)</title>
+						<pubinfo>
+							<pubplace>Washington, DC, USA</pubplace>
+							<publish>Department of Commerce, Census Bureau</publish>
+						</pubinfo>
+						<othercit>International Data Base (IDB) is created and maintained by the Census Bureau's International Programs Center.</othercit>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>2000</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>1997</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Census IDB</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccontr>Attribute data</srccontr>
+				<srccite>
+					<citeinfo>
+						<origin>Food and Agriculture Organization of the United Nations</origin>
+						<pubdate>2000</pubdate>
+						<title>Percent Urban Population</title>
+						<pubinfo>
+							<pubplace>Rome, Italy</pubplace>
+							<publish>Food and Agriculture Organization of the United Nations</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srccitea>FAO</srccitea>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2000</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccitea>WHO</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<srccite>
+					<citeinfo>
+						<origin>World Health Organization</origin>
+						<pubdate>1999</pubdate>
+						<title>World Health Report, Statistical Annex</title>
+						<pubinfo>
+							<pubplace>Geneva, Switzerland</pubplace>
+							<publish>World Health Organization</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1999</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>The World Bank</origin>
+						<origin>UNESCO - United Nations Educational, Scientific and Cultural Organization</origin>
+						<title>Higher Education in Developing Countries (2000 report), The Task Force on Higher Education and Society</title>
+						<pubinfo>
+							<pubplace>Washington, DC, USA; Paris, France </pubplace>
+							<publish>The World Bank; UNESCO</publish>
+						</pubinfo>
+						<pubdate>2000</pubdate>
+						<edition>2000</edition>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2000</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>HEDC - World Bank, UNESCO</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccontr>Attribute data</srccontr>
+				<srccitea>IBRD - World Bank</srccitea>
+				<srccite>
+					<citeinfo>
+						<origin>The World Bank</origin>
+						<title>Educational Level, Tertiary Attained</title>
+						<pubdate>1995</pubdate>
+						<pubinfo>
+							<pubplace>Washington, DC, USA</pubplace>
+							<publish>The World Bank</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1995</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>IMF - International Monetary Fund</origin>
+						<title>IMF World Economic Outlook (1999); Direction of Trade Statistics (2000); International Financial Statistics (1999)</title>
+						<pubdate>1999; 2000; 1999</pubdate>
+						<pubinfo>
+							<pubplace>Washington, DC, USA</pubplace>
+							<publish>International Monetary Fund</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srccitea>IMF</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>1999</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2000</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>1999</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Department of Energy</origin>
+						<pubdate>1997; 1998</pubdate>
+						<title>Energy Consumption Per Person; Energy Information Administration</title>
+						<pubinfo>
+							<pubplace>Washington, DC, USA</pubplace>
+							<publish>United States Department of Energy</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srccitea>DOE</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>1997</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>1998</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Geological Survey</origin>
+						<pubdate>1998</pubdate>
+						<title>Iron Ore Production</title>
+						<pubinfo>
+							<pubplace>Reston, Virginia, USA</pubplace>
+							<publish>United States Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1998</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>USGS</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS</title>
+						<origin>Executive Secretary for Foreign Names - US Board on Geographic Names</origin>
+						<pubdate>20000225</pubdate>
+						<edition>4</edition>
+						<geoform>tabular digital data</geoform>
+						<serinfo>
+							<sername>FIPS 10-4</sername>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Bethesda, Maryland, USA</pubplace>
+							<publish>National Imagery and Mapping Agency</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srccitea>ESFN FIPS 10-4 20000225</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20000225</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccontr>Attribute data</srccontr>
+				<srccitea>ESFN FIPS 10-4 20010128</srccitea>
+				<srccite>
+					<citeinfo>
+						<title>COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS</title>
+						<origin>Executive Secretary for Foreign Names - US Board on Geographic Names</origin>
+						<pubdate>20010128</pubdate>
+						<edition>6</edition>
+						<geoform>tabular digital data</geoform>
+						<serinfo>
+							<sername>FIPS 10-4</sername>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Bethesda, Maryland, USA</pubplace>
+							<publish>National Imagery and Mapping Agency</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20010128</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccontr>Attribute data</srccontr>
+				<srccite>
+					<citeinfo>
+						<title>Yugoslav partners sign historic deal</title>
+						<origin>BBC News</origin>
+						<pubdate>20020314</pubdate>
+						<geoform>document</geoform>
+						<onlink>http://news.bbc.co.uk/1/hi/world/europe/1872070.stm</onlink>
+						<serinfo>
+							<sername>BBC News Online</sername>
+							<issue>March 14, 2002</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>BBC News</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20020314</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>http://news.bbc.co.uk</srccitea>
+			</srcinfo>
+			<procstep>
+				<srcused>http://news.bbc.co.uk</srcused>
+				<procsv>ArcView GIS 3, ArcGIS® 8</procsv>
+				<procdate>20020924</procdate>
+				<procdesc>The following steps were performed by ESRI: Renamed Yugoslavia to Serbia and Montenegro.</procdesc>
+			</procstep>
+			<srcinfo><srccite><citeinfo><origin>International Organization for Standardization</origin><pubdate>20021115</pubdate><title>Updates on ISO 3166</title><geoform>document</geoform><pubinfo><pubplace>online</pubplace><publish>International Organization for Standardization</publish></pubinfo><othercit>ISO 3166-1 NEWSLETTER No. V-6 [20021115]</othercit><onlink>http://www.iso.ch/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/nlv6e-tl.html</onlink></citeinfo></srccite><typesrc>online</typesrc><srctime><timeinfo><sngdate><caldate>20021115</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>http://www.iso.ch</srccitea><srccontr>Attribute data</srccontr></srcinfo><procstep><procdesc>The following steps were performed by ESRI: Changed CNTRY_NAME attribute value from 'East Timor' to 'Timor Leste'.</procdesc><srcused>http://www.iso.ch</srcused><procsv>ArcView® GIS 3, ArcGIS® 9</procsv><srcused>CIA Factbook</srcused><procdate>20040219</procdate></procstep></lineage>
+		<logic>No duplicate features are present.</logic>
+		<complete>After processing, the data set is checked for number of records, attribute names, and values compared with source materials.</complete>
+		<attracc>
+			<attraccr>The attribute accuracy is unknown.</attraccr>
+		</attracc>
+	</dataqual>
+	<mdDateSt Sync="TRUE">20040311</mdDateSt>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 8.2.0.700</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"/>
+		</dataLang>
+		<idCitation>
+			<resTitle>CountryWatch Demographics (table)</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="011"/>
+			</presForm>
+			<resEd>2004</resEd>
+			<resEdDate>20040301</resEdDate>
+			<resRefDate>
+				<refDate>20040219</refDate>
+				<refDateType>
+					<DateTypCd value="001"/>
+				</refDateType>
+			</resRefDate>
+			<citRespParty>
+				<rpIndName>Data Team</rpIndName>
+				<rpOrgName>ESRI</rpOrgName>
+				<rpPosName>Data Team</rpPosName>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress>
+						<delPoint>380 New York Street</delPoint>
+						<city>Redlands</city>
+						<adminArea>California</adminArea>
+						<postCode>92373-8100</postCode>
+						<eMailAdd>info@esri.com</eMailAdd>
+						<country>us</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>909-793-2853</voiceNum>
+						<faxNum>909-793-5953</faxNum>
+					</cntPhone>
+				</rpCntInfo>
+			</citRespParty>
+			<citRespParty>
+				<rpOrgName>CountryWatch.com</rpOrgName>
+				<rpCntInfo>
+					<cntAddress>
+						<city>Houston</city>
+						<adminArea>Texas</adminArea>
+						<country>us</country>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+			</citRespParty>
+			<resRefDate>
+				<refDate>20040301</refDate>
+				<refDateType>
+					<DateTypCd value="002"/>
+				</refDateType>
+			</resRefDate>
+		</idCitation>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">-180.000000</westBL>
+					<eastBL Sync="TRUE">180.000000</eastBL>
+					<northBL Sync="TRUE">83.623596</northBL>
+					<southBL Sync="TRUE">-90.000000</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle><TempExtent><exTemp><TM_GeometricPrimitive><TM_Period><begin>1995</begin><end>2003</end></TM_Period></TM_GeometricPrimitive></exTemp></TempExtent></tempEle></dataExt>
+		<idAbs>CountryWatch Demographics (table) represents a vast amount of recent demographic information for the countries recognized by the U.S. State Department.</idAbs>
+		<tpCat>
+			<TopicCatCd value="016"/>
+		</tpCat>
+		<resConst>
+			<Consts>
+				<useLimit>See legal constraints.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="005"/>
+				</accessConsts>
+				<othConsts>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s). 
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</othConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+			</LegConsts>
+		</resConst>
+		<descKeys KeyTypCd="005">
+			<keyTyp>
+				<KeyTypCd value="005"/>
+			</keyTyp>
+			<keyword>table, demographics, populations, social indicators, economic indicators, economic key sectors, environmental indicators, society</keyword>
+		</descKeys>
+		<descKeys KeyTypCd="002">
+			<keyTyp>
+				<KeyTypCd value="002"/>
+			</keyTyp>
+			<keyword>World</keyword>
+		</descKeys>
+		<descKeys KeyTypCd="004">
+			<keyTyp>
+				<KeyTypCd value="004"/>
+			</keyTyp>
+			<keyword>2000, 2000, 2000, 1997, 2000, 1999, 2000, 1995, 1999, 2000, 1999, 1997, 1998, 1998, 2000, 2001, 2002, 2002, 2003</keyword></descKeys>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"/>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdFileID Sync="TRUE">{299A6768-BA41-4533-AA11-B5E3AEAB9F8E}</mdFileID>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="005"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc>003</orDesc>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.110</transSize>
+				<offLineMed>
+					<medName>
+						<MedNameCd value="003"/>
+					</medName>
+					<medName>
+						<MedNameCd value="001"/>
+					</medName>
+				</offLineMed>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">dBASE Table</formatName>
+			</distorFormat>
+			<distorCont>
+				<rpOrgName>ESRI; ESRI International Distributors</rpOrgName>
+				<rpCntInfo>
+					<cntAddress>
+						<delPoint>380 New York Street</delPoint>
+						<city>Redlands</city>
+						<adminArea>California</adminArea>
+						<postCode>92373-8100</postCode>
+						<country>us</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>800-447-9778</voiceNum>
+					</cntPhone>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<ordInstr>ESRI Data &amp; Maps is available only as part of ESRI® software.
+
+In the United States, contact the ESRI Telesales staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.</ordInstr>
+				<resFees>Software purchase price. ESRI Data &amp; Maps is available only as part of ESRI® software. To use this data requires software that supports dBASE® files.</resFees>
+			</distorOrdPrc>
+		</distributor>
+	</distInfo>
+	<mdContact>
+		<rpIndName>Data Team</rpIndName>
+		<rpOrgName>ESRI</rpOrgName>
+		<rpPosName>Data Team</rpPosName>
+		<rpCntInfo>
+			<cntAddress>
+				<delPoint>380 New York Street</delPoint>
+				<city>Redlands</city>
+				<adminArea>California</adminArea>
+				<postCode>92373-8100</postCode>
+				<eMailAdd>info@esri.com</eMailAdd>
+				<country>us</country>
+			</cntAddress>
+			<cntPhone>
+				<voiceNum>909-793-2853</voiceNum>
+				<faxNum>909-793-5953</faxNum>
+			</cntPhone>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="010"/>
+		</role>
+	</mdContact>
+	<dqInfo>
+		<dataLineage>
+			<statement>CountryWatch.com (source 1 of 15) 
+
+CountryWatch.com, 20001018, Country Information Data Sample: CountryWatch.com, Houston, Texas, USA. 
+
+Online links: 
+http://www.countrywatch.com 
+
+Other citation details: 
+Country Information Data Sample is a small sample of a much larger dataset of information that will be available in a searchable format on the CountryWatch.com site (http://www.countrywatch.com) by December 1, 2000. For more information, contact us at: CountryWatch.com Three Riverway, Suite 710 Houston, TX 77056 phone number: (713) 355-6500 fax number: (713) 355-2008 toll-free number: 1-800-879-3885 http://www.countrywatch.com email: sales@countrywatch.com Access to CountryWatch Data: CountryWatch.com is an information provider for businesses, schools, universities, libraries and individuals who need up-to-date information and news on the countries of the world and for the public and private sector organizations with global operations and interests. The management of CountryWatch.com has extensive international business and academic experience and, using this experience, has created, in a concise and useful form, a key set of political, economic, and business information for its clients in the form of Country Reviews and the Country Wire. Country Reviews are updated at least every six months and the Country Wire is updated daily; there are more than 1,000 stories per country (on average) in our one year news wire archive.
+
+Type of source media: electronic mail system
+Source contribution:
+Attribute data
+
+
+Office of the GGI (source 2 of 15) 
+
+Office of the Geographer and Global Issues, United States Department of State, FIPS PUB 10-4; U.S. Board on Geographic Names: Office of the Geographer and Global Issues, United States Department of State, Washington, DC, USA. 
+
+Source contribution:
+Attribute data
+
+
+CIA Factbook (source 3 of 15) 
+
+United States Central Intelligence Agency, 20000101, 2003, The World Factbook 2000; 2003: The World Factbook 2000; 2003, United States Central Intelligence Agency, Washington, DC, USA. 
+
+Online links: 
+http://www.cia.gov/cia/publications/factbook/index.html 
+
+Source contribution:
+Attribute data
+
+
+Census IDB (source 4 of 15) 
+
+Department of Commerce, Census Bureau, 2000; 1997, International Data Base (IDB): Department of Commerce, Census Bureau, Washington, DC, USA. 
+
+Other citation details: 
+International Data Base (IDB) is created and maintained by the Census Bureau's International Programs Center.
+
+Source contribution:
+Attribute data
+
+
+FAO (source 5 of 15) 
+
+Food and Agriculture Organization of the United Nations, 2000, Percent Urban Population: Food and Agriculture Organization of the United Nations, Rome, Italy. 
+
+Source contribution:
+Attribute data
+
+
+WHO (source 6 of 15) 
+
+World Health Organization, 1999, World Health Report, Statistical Annex: World Health Organization, Geneva, Switzerland. 
+
+Source contribution:
+Attribute data
+
+
+HEDC - World Bank, UNESCO (source 7 of 15) 
+
+The World Bank, UNESCO - United Nations Educational, Scientific and Cultural Organization, 2000, Higher Education in Developing Countries (2000 report), The Task Force on Higher Education and Society: The World Bank; UNESCO, Washington, DC, USA; Paris, France. 
+
+Source contribution:
+Attribute data
+
+
+IBRD - World Bank (source 8 of 15) 
+
+The World Bank, 1995, Educational Level, Tertiary Attained: The World Bank, Washington, DC, USA. 
+
+Source contribution:
+Attribute data
+
+
+IMF (source 9 of 15) 
+
+IMF - International Monetary Fund, 1999; 2000; 1999, IMF World Economic Outlook (1999); Direction of Trade Statistics (2000); International Financial Statistics (1999): International Monetary Fund, Washington, DC, USA. 
+
+Source contribution:
+Attribute data
+
+
+DOE (source 10 of 15) 
+
+United States Department of Energy, 1997; 1998, Energy Consumption Per Person; Energy Information Administration: United States Department of Energy, Washington, DC, USA. 
+
+Source contribution:
+Attribute data
+
+
+USGS (source 11 of 15) 
+
+United States Geological Survey, 1998, Iron Ore Production: United States Geological Survey, Reston, Virginia, USA. 
+
+Source contribution:
+Attribute data
+
+
+ESFN FIPS 10-4 20000225 (source 12 of 15) 
+
+Executive Secretary for Foreign Names - US Board on Geographic Names, 20000225, COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS: FIPS 10-4 , National Imagery and Mapping Agency, Bethesda, Maryland, USA. 
+
+Source contribution:
+Attribute data
+
+
+ESFN FIPS 10-4 20010128 (source 13 of 15) 
+
+Executive Secretary for Foreign Names - US Board on Geographic Names, 20010128, COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS: FIPS 10-4 , National Imagery and Mapping Agency, Bethesda, Maryland, USA. 
+
+Source contribution:
+Attribute data
+
+
+http://news.bbc.co.uk (source 14 of 15) 
+
+BBC News, 20020314, Yugoslav partners sign historic deal: BBC News Online March 14, 2002, BBC News, online. 
+
+Online links: 
+http://news.bbc.co.uk/1/hi/world/europe/1872070.stm 
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+http://www.iso.ch (source 15 of 15) 
+
+International Organization for Standardization, 20021115, Updates on ISO 3166: International Organization for Standardization, online. 
+
+Online links: 
+http://www.iso.ch/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/nlv6e-tl.html 
+
+Other citation details: 
+ISO 3166-1 NEWSLETTER No. V-6 [20021115]
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+Date: 20001018 (change 1 of 4) 
+The CountryWatch.com Country Information Data Sample was created using many sources. The source for each attribute is listed in the attribute definition.
+
+Country Information Data Sample is a small sample of a much larger dataset of information that will be available in a searchable format on the CountryWatch.com site (http://www.countrywatch.com) by December 1, 2000.
+
+Data sources used in this process: 
+Office of the GGI 
+CIA Factbook 
+Census IDB 
+FAO 
+WHO 
+HEDC - World Bank, UNESCO 
+IBRD - World Bank 
+IMF 
+DOE 
+USGS 
+
+Data sources produced in this process: 
+CountryWatch.com 
+
+
+Date: 20020129 (change 2 of 4) 
+The following steps were performed by ESRI for Data &amp; Maps 2002: Renamed Serbia and Montenegro to Yugoslavia.  Updated Fips_cntry attribute for East Timor and Yugoslavia.
+
+The following steps were performed by ESRI: Extracted table from CountryWatch.com in an electronic mail system attachment. Renamed several attributes to match attribute names found in World Countries shapefiles. Added records of countries present in the World Countries shapefiles allowing a better match when joining those data sets to this table.  Added Cw_data attribute to show which records were from CountryWatch.com and which were supplied by ESRI.  Added Politi_map attribute. Added the values for the country records supplied by ESRI for attributes Fips_cntry, Cntry_name, Politi_map, and Cw_data. Calculated the values to -99, for the country records supplied by ESRI for all other attributes, to indicate data not supplied by CountryWatch.com. Edited the spelling of the names in the Cntry_name attribute to match names in the World Countries shapefiles.
+
+Note: China and Taiwan are considered one country.  In the World Countries shapefiles they are two separate countries.
+
+Data sources used in this process: 
+CountryWatch.com 
+ESFN FIPS 10-4 20000225 
+ESFN FIPS 10-4 20010128 
+
+
+Date: 20020924 (change 3 of 4) 
+The following steps were performed by ESRI: Renamed Yugoslavia to Serbia and Montenegro.
+
+Data sources used in this process: 
+http://news.bbc.co.uk 
+
+
+Date: 20040219 (change 4 of 4) 
+The following steps were performed by ESRI: Changed CNTRY_NAME attribute value from 'East Timor' to 'Timor Leste'.
+
+Data sources used in this process: 
+http://www.iso.ch 
+CIA Factbook</statement>
+		</dataLineage>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005"/>
+			</scpLvl>
+		</dqScope>
+	</dqInfo>
+</metadata>

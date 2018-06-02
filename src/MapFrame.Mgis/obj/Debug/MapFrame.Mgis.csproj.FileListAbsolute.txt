@@ -1,0 +1,57 @@
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\MapFrame.Mgis.dll
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\MapFrame.Mgis.pdb
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\AxInterop.HOSOFTMapControlLib.dll
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\MapFrame.Mgis.XML
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\AxInterop.HOSOFTMiniMapLib.dll
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\AxInterop.HOSOFTSymbolSelectorLib.dll
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\Interop.HOSOFTMapControlLib.dll
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\Interop.HOSOFTMiniMapLib.dll
+D:\SVN_DIR\Src\MapFrame.Mgis\bin\Debug\Interop.HOSOFTSymbolSelectorLib.dll
+D:\SVN_DIR\Src\MGISTest\bin\Debug\MapFrame.Mgis.dll
+D:\SVN_DIR\Src\MGISTest\bin\Debug\MapFrame.Mgis.pdb
+D:\SVN_DIR\Src\MGISTest\bin\Debug\MapFrame.Mgis.XML
+D:\SVN_DIR\Src\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\Src\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Properties.Resources.resources
+D:\SVN_DIR\Src\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Windows.TextInput.resources
+D:\SVN_DIR\Src\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csproj.GenerateResource.Cache
+D:\SVN_DIR\Src\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.dll
+D:\SVN_DIR\Src\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Properties.Resources.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Windows.TextInput.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csproj.GenerateResource.Cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.XML
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.XML
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csprojResolveAssemblyReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Properties.Resources.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Windows.TextInput.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csproj.GenerateResource.Cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.pdb
+D:\Work\new\3d\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.dll
+D:\Work\new\3d\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.pdb
+D:\Work\new\3d\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.XML
+D:\Work\new\3d\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csprojResolveAssemblyReference.cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Properties.Resources.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Windows.TextInput.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csproj.GenerateResource.Cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.pdb
+D:\Work\Svn\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.dll
+D:\Work\Svn\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.pdb
+D:\Work\Svn\Src\MapFrame\MGISTest\bin\Debug\MapFrame.Mgis.XML
+D:\Work\Svn\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csprojResolveAssemblyReference.cache
+D:\Work\Svn\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Properties.Resources.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.Windows.TextInput.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.csproj.GenerateResource.Cache
+D:\Work\Svn\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Mgis\obj\Debug\MapFrame.Mgis.pdb

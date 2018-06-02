@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kml>
+  <Placemark>
+    <name>Maker名字</name>
+    <LineString>
+      <Description>描述</Description>
+      <Position>108.2936274945631,32.53700719219741 108.2936274945631,32.53700719219741</Position>
+      <Width>10</Width>
+      <LineStyle>线条样式  待定</LineStyle>
+    </LineString>
+  </Placemark>
+</kml>

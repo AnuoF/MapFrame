@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kml>
+  <Placemark>
+    <name>Maker名字</name>
+    <Point>
+      <Description>描述</Description>
+      <Position>108.2936274945631,32.53700719219741</Position>
+      <Size>10,10</Size>
+      <ToolTipText>标牌内容</ToolTipText>
+    </Point>
+  </Placemark>
+</kml>

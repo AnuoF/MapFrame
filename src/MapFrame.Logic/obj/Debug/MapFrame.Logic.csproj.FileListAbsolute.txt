@@ -1,0 +1,92 @@
+E:\Allen\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.csprojResolveAssemblyReference.cache
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.dll
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.pdb
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.dll
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.dll
+E:\Allen\Src\MapFrame.Logic\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Allen\Src\MapFrame.Logic\bin\Debug\GMap.NET.Core.dll
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.pdb
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.pdb
+E:\Allen\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.dll
+E:\Allen\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.pdb
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.XML
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.xml
+E:\Allen\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.xml
+E:\SVN_DIR\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.csprojResolveAssemblyReference.cache
+E:\SVN_DIR\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.dll
+E:\SVN_DIR\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.pdb
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.XML
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.dll
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.pdb
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.dll
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.dll
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\GMap.NET.WindowsForms.dll
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\GMap.NET.Core.dll
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.pdb
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.xml
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.pdb
+E:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.xml
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.XML
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.dll
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.pdb
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.dll
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.dll
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\GMap.NET.Core.dll
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.pdb
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.GMap.xml
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.pdb
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.xml
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.csprojResolveAssemblyReference.cache
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.dll
+E:\Allen\备份\Src 7-11 15-34\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Config.xml
+D:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\Src\MapFrame.Logic\bin\Debug\MapFrame.Logic.XML
+D:\SVN_DIR\Src\MapFrame.Logic\obj\Debug\MapFrame.Logic.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Config.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.XML
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Config.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.XML
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.csprojResolveAssemblyReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Config.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.csprojResolveAssemblyReference.cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.XML
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Config.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.XML
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Logic.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\bin\Debug\MapFrame.Core.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.csprojResolveAssemblyReference.cache
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Logic\obj\Debug\MapFrame.Logic.pdb

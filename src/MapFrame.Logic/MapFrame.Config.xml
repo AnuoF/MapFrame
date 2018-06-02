@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MapFrame>
+  <MapEngine>
+    <Engine Type="GMap" LibraryName="MapFrame.GMap" NameSpace.Class="MapFrame.GMap.Factory.FactoryGMap"></Engine>
+    <Engine Type="ArcMap" LibraryName="MapFrame.ArcMap" NameSpace.Class="MapFrame.ArcMap.Factory.FactoryArcMap"></Engine>
+    <Engine Type="ArcGlobe" LibraryName="MapFrame.ArcGlobe" NameSpace.Class="MapFrame.ArcGlobe.Factory.FactoryArcGlobe"></Engine>
+    <Engine Type="Mgis" LibraryName="MapFrame.Mgis" NameSpace.Class="MapFrame.Mgis.Factory.FactoryMgis"></Engine>
+  </MapEngine>
+  <MapTool>
+    <Tool Type="GMap" LibraryName="MapFrame.GMap" NameSpace.Class="MapFrame.GMap.Tool.ToolBox"></Tool>
+    <Tool Type="ArcMap" LibraryName="MapFrame.ArcMap" NameSpace.Class="MapFrame.ArcMap.Tool.ToolBox"></Tool>
+    <Tool Type="ArcGlobe" LibraryName="MapFrame.ArcGlobe" NameSpace.Class="MapFrame.ArcGlobe.Tool.ToolBox"></Tool>
+    <Tool Type="Mgis" LibraryName="MapFrame.Mgis" NameSpace.Class="MapFrame.Mgis.Tool.ToolBox"></Tool>
+  </MapTool>
+
+  <Config>
+    <GMap>
+      <MinZoom>2</MinZoom>
+      <MaxZoom>18</MaxZoom>
+      <CacheLocation>GMapCache</CacheLocation>
+      <MapProvider>AMap</MapProvider>
+      <Zoom>9</Zoom>
+      <ShowCenter>false</ShowCenter>
+      <Position>104,30</Position>
+      <DragButton>Left</DragButton>
+      <MarkersEnabled>true</MarkersEnabled>
+      <IgnoreMarkerOnMouseWheel>true</IgnoreMarkerOnMouseWheel>
+      <MouseWheelZoomEnabled>true</MouseWheelZoomEnabled>
+      <RoutesEnabled>true</RoutesEnabled>
+      <ShowTileGridLines>false</ShowTileGridLines>
+      <PolygonsEnabled>true</PolygonsEnabled>
+      <AccessMode>CacheOnly</AccessMode>
+    </GMap>
+    <ArcMap>
+      
+    </ArcMap>
+    <ArcGlobe>
+      
+    </ArcGlobe>
+    <Mgis>
+      
+    </Mgis>
+  </Config>
+</MapFrame>

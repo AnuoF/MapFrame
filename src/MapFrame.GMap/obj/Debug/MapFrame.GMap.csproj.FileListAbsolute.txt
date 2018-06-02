@@ -1,0 +1,90 @@
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\MapFrame.GMap.dll
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\MapFrame.GMap.pdb
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\GMap.NET.Core.dll
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.dll
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\GMap.NET.Core.pdb
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\MapFrame.GMap\obj\Debug\MapFrame.GMap.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\Src\MapFrame.GMap\obj\Debug\MapFrame.GMap.Properties.Resources.resources
+D:\SVN_DIR\Src\MapFrame.GMap\obj\Debug\MapFrame.GMap.TootipTool.resources
+D:\SVN_DIR\Src\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.TextInput.resources
+D:\SVN_DIR\Src\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.MapLabel.resources
+D:\SVN_DIR\Src\MapFrame.GMap\obj\Debug\MapFrame.GMap.csproj.GenerateResource.Cache
+D:\SVN_DIR\Src\MapFrame.GMap\obj\Debug\MapFrame.GMap.dll
+D:\SVN_DIR\Src\MapFrame.GMap\obj\Debug\MapFrame.GMap.pdb
+D:\SVN_DIR\Src\MapFrame.GMap\bin\Debug\MapFrame.GMap.XML
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.XML
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Properties.Resources.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.TootipTool.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.TextInput.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.MapLabel.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.csproj.GenerateResource.Cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.XML
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.csprojResolveAssemblyReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Properties.Resources.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.TootipTool.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.TextInput.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.MapLabel.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.csproj.GenerateResource.Cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.Core.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.Core.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.csprojResolveAssemblyReference.cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Properties.Resources.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.TootipTool.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.TextInput.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.MapLabel.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.csproj.GenerateResource.Cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.XML
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.XML
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.GMap.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.Core.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.Core.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\bin\Debug\MapFrame.Core.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.csprojResolveAssemblyReference.cache
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Properties.Resources.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.TootipTool.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.TextInput.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.Windows.MapLabel.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.csproj.GenerateResource.Cache
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.GMap\obj\Debug\MapFrame.GMap.pdb

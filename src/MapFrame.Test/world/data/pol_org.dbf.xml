@@ -1,0 +1,1124 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+	<Esri>
+		<MetaID>{619E7D29-754D-4E76-BF0E-3313AF8856A3}</MetaID>
+		<CreaDate>20000920</CreaDate>
+		<CreaTime>15021200</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20021101</SyncDate>
+		<SyncTime>22244200</SyncTime>
+		<ModDate>20040311</ModDate>
+		<ModTime>22373200</ModTime>
+		<Sync>FALSE</Sync>
+		<PublishedDocID>{F9682EFB-FD4D-4219-BEF3-D6975F36515C}</PublishedDocID>
+	</Esri>
+	<idinfo>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 8.2.0.700</native>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>World Country Memberships of Political Organizations (table) represents the memberships of countries in world political organizations such as the Untied Nations, the International Monetary Fund (IMF), and the Food and Agriculture Organization (FAO).</abstract>
+			<purpose>World Country Memberships of Political Organizations (table) provides world political organizations memberships by country. To display World Political Organization Membership attributes on a map, join this table to a World Countries attribute table using Fips_cntry or Cntry_name as the common field.</purpose>
+		</descript>
+		<citation>
+			<citeinfo>
+				<origin>United States Central Intelligence Agency</origin>
+				<pubdate>20040301</pubdate>
+				<title>World Country Memberships of Political Organizations (table)</title>
+				<ftname Sync="TRUE">pol_org</ftname>
+				<geoform Sync="TRUE">tabular digital data</geoform>
+				<edition>2004</edition>
+				<serinfo>
+					<sername>ESRI® Data &amp; Maps</sername>
+					<issue>2004</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<othercit>Location: \world</othercit>
+				<origin>ESRI</origin>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>publication date</current>
+			<timeinfo>
+				<mdattim>
+					<sngdate>
+						<caldate>20000101</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>19920101</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>19920801</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>1993</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20000225</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20010128</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20020101</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20020314</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20021115</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2003</caldate>
+					</sngdate>
+				</mdattim>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Matches software update releases</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-180.000000</westbc>
+				<eastbc Sync="TRUE">180.000000</eastbc>
+				<northbc Sync="TRUE">83.623596</northbc>
+				<southbc Sync="TRUE">-90.000000</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>table</themekey>
+				<themekey>political organization memberships</themekey>
+				<themekey>FAO</themekey>
+				<themekey>United Nations General Assembly</themekey>
+				<themekey>IAEA</themekey>
+				<themekey>IBRD</themekey>
+				<themekey>IMF</themekey>
+				<themekey>OPEC</themekey>
+				<themekey>UNESCO</themekey>
+				<themekey>WHO</themekey>
+				<themekey>WMO</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<place>
+				<placekey>World</placekey>
+				<placekt>None</placekt>
+			</place>
+			<temporal>
+				<tempkey>2000</tempkey>
+				<tempkt>None</tempkt>
+				<tempkey>1992</tempkey>
+				<tempkey>1992</tempkey>
+				<tempkey>1993</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>2001</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2003</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>Access granted to Licensee only.</accconst>
+		<useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Public domain data from U.S. government is freely redistributable with proper metadata and source attribution.
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+		<natvform Sync="TRUE">dBASE Table</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>Data Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>8:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
+				<cntinst>In the United States–
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntper>Data Team</cntper>
+					<cntorg>ESRI</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<address>380 New York Street</address>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>8:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20040311</metd>
+		<metextns>
+			<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<eainfo>
+		<detailed Name="pol_org">
+			<enttyp>
+				<enttypl Sync="TRUE">pol_org</enttypl>
+				<enttypt Sync="TRUE">Table</enttypt>
+				<enttypc Sync="TRUE">250</enttypc>
+				<enttypd>The table represents the memberships of countries in world political organizations.</enttypd>
+				<enttypds>ESRI</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">OID</attrlabl>
+				<attalias Sync="TRUE">OID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">FIPS_CNTRY</attrlabl>
+				<attalias Sync="TRUE">FIPS_CNTRY</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attrdef>The FIPS code (two-letter) for the country.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards Publication 10-4</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CNTRY_NAME</attrlabl>
+				<attalias Sync="TRUE">CNTRY_NAME</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">40</attwidth>
+				<attrdef>The country name.</attrdef>
+				<attrdefs>CIA World Factbook, ESRI, Oxford Atlas of the World</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CAPITAL</attrlabl>
+				<attalias Sync="TRUE">CAPITAL</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">40</attwidth>
+				<attrdef>The name of the capital city for the country.</attrdef>
+				<attrdefs>CIA World Factbook, ESRI, Oxford Atlas of the World</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">FAO</attrlabl>
+				<attalias Sync="TRUE">FAO</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdef>Indicates if the country is a member of the Food and Agriculture Organization.</attrdef>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>The country is a member.</edomvd>
+						<edomvds>CIA World Factbook</edomvds>
+					</edom>
+					<edom>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomvd>The country is not a member.</edomvd>
+						<edomv>N</edomv>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GA_MEMB_YR</attrlabl>
+				<attalias Sync="TRUE">GA_MEMB_YR</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attrdef>The year the country joined the United Nations General Assembly.</attrdef>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>The country is not a member.</edomvd>
+						<edomvds>CIA World Factbook</edomvds>
+					</edom>
+					<edom>
+						<edomvd>The year the country joined.</edomvd>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomv>Positive Number</edomv>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">IAEA</attrlabl>
+				<attalias Sync="TRUE">IAEA</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdef>Indicates if the country is a member of the International Atomic Energy Agency.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>The country is a member.</edomvd>
+						<edomvds>CIA World Factbook</edomvds>
+					</edom>
+					<edom>
+						<edomv>N</edomv>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomvd>The country is not a member.</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">IBRD</attrlabl>
+				<attalias Sync="TRUE">IBRD</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdef>Indicates if the country is a member of the International Bank for Reconstruction and Development.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomv>Y</edomv>
+						<edomvd>The country is a member.</edomvd>
+					</edom>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>The country is not a member.</edomvd>
+						<edomvds>CIA World Factbook</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">IMF</attrlabl>
+				<attalias Sync="TRUE">IMF</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdef>Indicates if the country is a member of the International Monetary Fund.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomv>Y</edomv>
+						<edomvd>The country is a member.</edomvd>
+					</edom>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>The country is not a member.</edomvd>
+						<edomvds>CIA World Factbook</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">OPEC</attrlabl>
+				<attalias Sync="TRUE">OPEC</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdef>Indicates if the country is a member of the Organization of Petroleum Exporting Countries.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomvd>The country is a member.</edomvd>
+						<edomv>Y</edomv>
+						<edomvds>CIA World Factbook</edomvds>
+					</edom>
+					<edom>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomv>N</edomv>
+						<edomvd>The country is not a member.</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">UNESCO</attrlabl>
+				<attalias Sync="TRUE">UNESCO</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdef>Indicates if the country is a member of the Education, Scientific, and Cultural Organization.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomvd>The country is a member.</edomvd>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomv>Y</edomv>
+					</edom>
+					<edom>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomv>N</edomv>
+						<edomvd>The country is not a member.</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">WHO</attrlabl>
+				<attalias Sync="TRUE">WHO</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdef>Indicates if the country is a member of the World Health Organization.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomvd>The country is a member.</edomvd>
+						<edomv>Y</edomv>
+						<edomvds>CIA World Factbook</edomvds>
+					</edom>
+					<edom>
+						<edomv>N</edomv>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomvd>The country is not a member.</edomvd>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">WMO</attrlabl>
+				<attalias Sync="TRUE">WMO</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attrdefs>CIA World Factbook</attrdefs>
+				<attrdef>Indicates if the country is a member of the World Meteorological Organization.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomvds>CIA World Factbook</edomvds>
+						<edomv>Y</edomv>
+						<edomvd>The country is a member.</edomvd>
+					</edom>
+					<edom>
+						<edomvd>The country is not a member.</edomvd>
+						<edomv>N</edomv>
+						<edomvds>CIA World Factbook</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.023</transize>
+					<dssize Sync="TRUE">0.023</dssize>
+					<formname>dBASE</formname>
+					<filedec>no compression applied</filedec>
+					<formspec>The DBF file contains the attribute data in dBASE® format. The XML file (*.dbf.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>DVD–ROM</offmedia>
+						<reccap>
+							<recden>4.38</recden>
+							<recdenu>GB (gigabytes)</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+					<offoptn>
+						<offmedia>CD–ROM</offmedia>
+						<reccap>
+							<recden>650</recden>
+							<recdenu>MB (megabytes)</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI International Distributors</cntorg>
+				</cntorgp>
+				<cntinst>In the United States, contact the ESRI Telesales staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+			</cntinfo>
+		</distrib>
+		<techpreq>To use this data requires software that supports dBASE® files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>Offline Data</resdesc>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>The World Factbook 2000, 1992</title>
+						<origin>United States Central Intelligence Agency</origin>
+						<pubdate>20000101, 19920101</pubdate>
+						<edition>2000, 1992</edition>
+						<serinfo>
+							<sername>The World Factbook</sername>
+							<issue>2000, 1992</issue>
+						</serinfo>
+						<pubinfo>
+							<publish>United States Central Intelligence Agency</publish>
+							<pubplace>Washington, DC, USA</pubplace>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>20000101</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>19920101</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>CIA Factbook - older</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The following steps were performed by ESRI for Data &amp; Maps 2002: Combined Serbia and Montenegro into Yugoslavia.  Updated Fips_cntry attribute for East Timor and Yugoslavia.
+
+The following steps were performed by ESRI: Extracted data set from the U.S. Central Intelligence Agency publication, The World Factbook 1992. Added attribute values from ArcWorld 1:3M and the Oxford Atlas of the World.  Renamed attribute names.  Removed attributes Abbrevname, Region, and Continent. Removed records for Soviet Union, Yugoslavia, and Czechoslovakia.  Added new records from The World Factbook 2000 and other Geographic Reference materials. Updated Capital attribute values to match World Cities data set.</procdesc>
+				<procsv>ArcInfo™ 8, ArcView® GIS 3</procsv>
+				<srcused>CIA Factbook - older</srcused>
+				<procdate>20020129</procdate>
+				<srcused>ArcWorld 1:3M</srcused>
+				<srcused>Oxford Atlas</srcused>
+				<srcused>ESFN FIPS 10-4 20000225</srcused>
+				<srcused>ESFN FIPS 10-4 20010128</srcused>
+			</procstep>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>ESRI</origin>
+						<pubdate>19920801</pubdate>
+						<title>ArcWorld™ 1:3M</title>
+						<edition>1</edition>
+						<pubinfo>
+							<pubplace>Redlands, California, USA</pubplace>
+							<publish>ESRI</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>3000000</srcscale>
+				<typesrc>CD–ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19920801</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>ArcWorld 1:3M</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>George Philip &amp; Son</origin>
+						<pubdate>1993</pubdate>
+						<title>Oxford Atlas of the World</title>
+						<edition>2nd edition</edition>
+						<serinfo>
+							<sername>Oxford Atlas of the World</sername>
+							<issue>2nd edition</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>New York, New York, USA</pubplace>
+							<publish>Oxford University Press</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srccitea>Oxford Atlas</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1993</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS</title>
+						<origin>Executive Secretary for Foreign Names - US Board on Geographic Names</origin>
+						<pubdate>20000225</pubdate>
+						<edition>4</edition>
+						<geoform>tabular digital data</geoform>
+						<serinfo>
+							<sername>FIPS 10-4</sername>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Bethesda, Maryland, USA</pubplace>
+							<publish>National Imagery and Mapping Agency</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srccitea>ESFN FIPS 10-4 20000225</srccitea>
+				<srccontr>Attribute data</srccontr>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20000225</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccontr>Attribute data</srccontr>
+				<srccitea>ESFN FIPS 10-4 20010128</srccitea>
+				<srccite>
+					<citeinfo>
+						<title>COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS</title>
+						<origin>Executive Secretary for Foreign Names - US Board on Geographic Names</origin>
+						<pubdate>20010128</pubdate>
+						<edition>6</edition>
+						<geoform>tabular digital data</geoform>
+						<serinfo>
+							<sername>FIPS 10-4</sername>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Bethesda, Maryland, USA</pubplace>
+							<publish>National Imagery and Mapping Agency</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20010128</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccontr>Attribute data</srccontr>
+				<typesrc>online</typesrc>
+				<srccitea>CIA Factbook</srccitea>
+				<srccite>
+					<citeinfo>
+						<origin>United States Central Intelligence Agency</origin>
+						<title>THE WORLD FACTBOOK 2002; 2003</title>
+						<othercit>In general, information available as of 1 January 2002 was used in the preparation of The World Factbook 2002.
+
+The Factbook has been an annual publication, but selected data and maps will be updated periodically during the coming year.</othercit>
+						<pubdate>20020101, 2003</pubdate>
+						<edition>2002, 2003</edition>
+						<serinfo>
+							<sername>The World Factbook</sername>
+							<issue>2002; 2003</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Washington, DC, USA</pubplace>
+							<publish>United States Central Intelligence Agency</publish>
+						</pubinfo>
+						<geoform>document</geoform>
+						<onlink>http://www.odci.gov/cia/publications/factbook/</onlink>
+						<onlink>http://www.cia.gov/cia/publications/factbook/index.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>20020101</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2003</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>BBC News</origin>
+						<pubdate>20020314</pubdate>
+						<title>Yugoslav partners sign historic deal</title>
+						<geoform>document</geoform>
+						<serinfo>
+							<sername>BBC News Online</sername>
+							<issue>March 14, 2002</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>BBC News</publish>
+						</pubinfo>
+						<onlink>http://news.bbc.co.uk/1/hi/world/europe/1872070.stm</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20020314</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>http://news.bbc.co.uk</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The following steps were performed by ESRI: Updated the membership information based on a review of The World Factbook. Renamed Yugoslavia to Serbia &amp; Montenegro and updated the membership information. Changed GA_MEMB_YR field to "2002" for East Timor and Switzerland.</procdesc>
+				<procsv>ArcView GIS 3, ArcGIS® 8</procsv>
+				<srcused>CIA Factbook</srcused>
+				<srcused>http://news.bbc.co.uk</srcused>
+				<procdate>20020924</procdate>
+			</procstep>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>International Organization for Standardization</origin>
+						<pubdate>20021115</pubdate>
+						<title>Updates on ISO 3166</title>
+						<geoform>document</geoform>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>International Organization for Standardization</publish>
+						</pubinfo>
+						<othercit>ISO 3166-1 NEWSLETTER No. V-6 [20021115]</othercit>
+						<onlink>http://www.iso.ch/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/nlv6e-tl.html</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20021115</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>http://www.iso.ch</srccitea>
+				<srccontr>Attribute data</srccontr>
+			</srcinfo>
+			<procstep>
+				<srcused>CIA Factbook</srcused>
+				<procdesc>The following steps were performed by ESRI: Changed CNTRY_NAME attribute value from 'East Timor' to 'Timor Leste'. Removed the feature for Taiwan.</procdesc>
+				<procsv>ArcView® GIS 3, ArcGIS® 9</procsv>
+				<srcused>http://www.iso.ch</srcused>
+				<procdate>20040219</procdate>
+			</procstep>
+		</lineage>
+		<logic>No duplicate features are present.</logic>
+		<complete>After processing, the data set is checked for number of records, attribute names, and values compared with source materials.</complete>
+		<attracc>
+			<attraccr>The attribute accuracy is unknown.</attraccr>
+		</attracc>
+	</dataqual>
+	<mdDateSt Sync="TRUE">20040311</mdDateSt>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 8.2.0.700</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"/>
+		</dataLang>
+		<idCitation>
+			<resTitle>World Country Memberships of Political Organizations (table)</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="011"/>
+			</presForm>
+			<resEd>2004</resEd>
+			<resEdDate>20040301</resEdDate>
+			<resRefDate>
+				<refDate>20040219</refDate>
+				<refDateType>
+					<DateTypCd value="001"/>
+				</refDateType>
+			</resRefDate>
+			<citRespParty>
+				<rpIndName>Data Team</rpIndName>
+				<rpOrgName>ESRI</rpOrgName>
+				<rpPosName>Data Team</rpPosName>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress>
+						<delPoint>380 New York Street</delPoint>
+						<city>Redlands</city>
+						<adminArea>California</adminArea>
+						<postCode>92373-8100</postCode>
+						<eMailAdd>info@esri.com</eMailAdd>
+						<country>us</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>909-793-2853</voiceNum>
+						<faxNum>909-793-5953</faxNum>
+					</cntPhone>
+				</rpCntInfo>
+			</citRespParty>
+			<citRespParty>
+				<rpOrgName>United States Central Intelligence Agency</rpOrgName>
+				<rpCntInfo>
+					<cntAddress>
+						<city>Washington</city>
+						<adminArea>District of Columbia</adminArea>
+						<country>us</country>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+			</citRespParty>
+			<resRefDate>
+				<refDate>20040301</refDate>
+				<refDateType>
+					<DateTypCd value="002"/>
+				</refDateType>
+			</resRefDate>
+		</idCitation>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">-180.000000</westBL>
+					<eastBL Sync="TRUE">180.000000</eastBL>
+					<northBL Sync="TRUE">83.623596</northBL>
+					<southBL Sync="TRUE">-90.000000</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_GeometricPrimitive>
+							<TM_Period>
+								<begin>19920101</begin>
+								<end>2003</end>
+							</TM_Period>
+						</TM_GeometricPrimitive>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<idAbs>World Country Memberships of Political Organizations (table) represents the memberships of countries in world political organizations such as the Untied Nations, the International Monetary Fund (IMF), and the Food and Agriculture Organization (FAO).</idAbs>
+		<tpCat>
+			<TopicCatCd value="016"/>
+		</tpCat>
+		<resConst>
+			<Consts>
+				<useLimit>See legal constraints.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="005"/>
+				</accessConsts>
+				<othConsts>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Public domain data from U.S. government is freely redistributable with proper metadata and source attribution.
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</othConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+			</LegConsts>
+		</resConst>
+		<descKeys KeyTypCd="005">
+			<keyTyp>
+				<KeyTypCd value="005"/>
+			</keyTyp>
+			<keyword>table, political organization memberships, FAO, United Nations General Assembly, IAEA, IBRD, IMF, OPEC, UNESCO, WHO, WMO, society</keyword>
+		</descKeys>
+		<descKeys KeyTypCd="002">
+			<keyTyp>
+				<KeyTypCd value="002"/>
+			</keyTyp>
+			<keyword>World</keyword>
+		</descKeys>
+		<descKeys KeyTypCd="004">
+			<keyTyp>
+				<KeyTypCd value="004"/>
+			</keyTyp>
+			<keyword>2000, 1992, 1992, 1993, 2000, 2001, 2002, 2002, 2002, 2003</keyword>
+		</descKeys>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"/>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdFileID Sync="TRUE">{F9682EFB-FD4D-4219-BEF3-D6975F36515C}</mdFileID>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="005"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc>003</orDesc>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.023</transSize>
+				<offLineMed>
+					<medName>
+						<MedNameCd value="003"/>
+					</medName>
+					<medName>
+						<MedNameCd value="001"/>
+					</medName>
+				</offLineMed>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">dBASE Table</formatName>
+			</distorFormat>
+			<distorCont>
+				<rpOrgName>ESRI; ESRI International Distributors</rpOrgName>
+				<rpCntInfo>
+					<cntAddress>
+						<delPoint>380 New York Street</delPoint>
+						<city>Redlands</city>
+						<adminArea>California</adminArea>
+						<postCode>92373-8100</postCode>
+						<country>us</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>800-447-9778</voiceNum>
+					</cntPhone>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<ordInstr>ESRI Data &amp; Maps is available only as part of ESRI® software.
+
+In the United States, contact the ESRI Telesales staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.</ordInstr>
+				<resFees>Software purchase price. ESRI Data &amp; Maps is available only as part of ESRI® software. To use this data requires software that supports dBASE® files.</resFees>
+			</distorOrdPrc>
+		</distributor>
+	</distInfo>
+	<mdContact>
+		<rpIndName>Data Team</rpIndName>
+		<rpOrgName>ESRI</rpOrgName>
+		<rpPosName>Data Team</rpPosName>
+		<rpCntInfo>
+			<cntAddress>
+				<delPoint>380 New York Street</delPoint>
+				<city>Redlands</city>
+				<adminArea>California</adminArea>
+				<postCode>92373-8100</postCode>
+				<eMailAdd>info@esri.com</eMailAdd>
+				<country>us</country>
+			</cntAddress>
+			<cntPhone>
+				<voiceNum>909-793-2853</voiceNum>
+				<faxNum>909-793-5953</faxNum>
+			</cntPhone>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="010"/>
+		</role>
+	</mdContact>
+	<dqInfo>
+		<dataLineage>
+			<statement>CIA Factbook - older (source 1 of 8) 
+
+United States Central Intelligence Agency, 20000101, 19920101, The World Factbook 2000, 1992: The World Factbook 2000, 1992, United States Central Intelligence Agency, Washington, DC, USA. 
+
+Source contribution:
+Attribute data
+
+
+ArcWorld 1:3M (source 2 of 8) 
+
+ESRI, 19920801, ArcWorld™ 1:3M: ESRI, Redlands, California, USA. 
+
+Type of source media: CD–ROM
+Source scale denominator: 3000000
+Source contribution:
+Attribute data
+
+
+Oxford Atlas (source 3 of 8) 
+
+George Philip &amp; Son, 1993, Oxford Atlas of the World: Oxford Atlas of the World 2nd edition, Oxford University Press, New York, New York, USA. 
+
+Type of source media: paper
+Source contribution:
+Attribute data
+
+
+ESFN FIPS 10-4 20000225 (source 4 of 8) 
+
+Executive Secretary for Foreign Names - US Board on Geographic Names, 20000225, COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS: FIPS 10-4 , National Imagery and Mapping Agency, Bethesda, Maryland, USA. 
+
+Source contribution:
+Attribute data
+
+
+ESFN FIPS 10-4 20010128 (source 5 of 8) 
+
+Executive Secretary for Foreign Names - US Board on Geographic Names, 20010128, COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS: FIPS 10-4 , National Imagery and Mapping Agency, Bethesda, Maryland, USA. 
+
+Source contribution:
+Attribute data
+
+
+CIA Factbook (source 6 of 8) 
+
+United States Central Intelligence Agency, 20020101, 2003, THE WORLD FACTBOOK 2002; 2003: The World Factbook 2002; 2003, United States Central Intelligence Agency, Washington, DC, USA. 
+
+Online links: 
+http://www.odci.gov/cia/publications/factbook/ 
+http://www.cia.gov/cia/publications/factbook/index.html 
+
+Other citation details: 
+In general, information available as of 1 January 2002 was used in the preparation of The World Factbook 2002. The Factbook has been an annual publication, but selected data and maps will be updated periodically during the coming year.
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+http://news.bbc.co.uk (source 7 of 8) 
+
+BBC News, 20020314, Yugoslav partners sign historic deal: BBC News Online March 14, 2002, BBC News, online. 
+
+Online links: 
+http://news.bbc.co.uk/1/hi/world/europe/1872070.stm 
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+http://www.iso.ch (source 8 of 8) 
+
+International Organization for Standardization, 20021115, Updates on ISO 3166: International Organization for Standardization, online. 
+
+Online links: 
+http://www.iso.ch/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/nlv6e-tl.html 
+
+Other citation details: 
+ISO 3166-1 NEWSLETTER No. V-6 [20021115]
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+Date: 20020129 (change 1 of 3) 
+The following steps were performed by ESRI for Data &amp; Maps 2002: Combined Serbia and Montenegro into Yugoslavia.  Updated Fips_cntry attribute for East Timor and Yugoslavia.
+
+The following steps were performed by ESRI: Extracted data set from the U.S. Central Intelligence Agency publication, The World Factbook 1992. Added attribute values from ArcWorld 1:3M and the Oxford Atlas of the World.  Renamed attribute names.  Removed attributes Abbrevname, Region, and Continent. Removed records for Soviet Union, Yugoslavia, and Czechoslovakia.  Added new records from The World Factbook 2000 and other Geographic Reference materials. Updated Capital attribute values to match World Cities data set.
+
+Data sources used in this process: 
+CIA Factbook - older 
+ArcWorld 1:3M 
+Oxford Atlas 
+ESFN FIPS 10-4 20000225 
+ESFN FIPS 10-4 20010128 
+
+
+Date: 20020924 (change 2 of 3) 
+The following steps were performed by ESRI: Updated the membership information based on a review of The World Factbook. Renamed Yugoslavia to Serbia &amp; Montenegro and updated the membership information. Changed GA_MEMB_YR field to "2002" for East Timor and Switzerland.
+
+Data sources used in this process: 
+CIA Factbook 
+http://news.bbc.co.uk 
+
+
+Date: 20040219 (change 3 of 3) 
+The following steps were performed by ESRI: Changed CNTRY_NAME attribute value from 'East Timor' to 'Timor Leste'. Removed the feature for Taiwan.
+
+Data sources used in this process: 
+CIA Factbook 
+http://www.iso.ch</statement>
+		</dataLineage>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005"/>
+			</scpLvl>
+		</dqScope>
+	</dqInfo>
+</metadata>

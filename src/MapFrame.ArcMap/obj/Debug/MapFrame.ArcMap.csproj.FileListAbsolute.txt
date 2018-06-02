@@ -1,0 +1,85 @@
+D:\SVN_DIR\Src\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.dll
+D:\SVN_DIR\Src\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.pdb
+D:\SVN_DIR\Src\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\SVN_DIR\Src\MapFrame.ArcMap\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\MapFrame.ArcMap\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\MapFrame.ArcMap\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.ResolveComReference.cache
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Properties.Resources.resources
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TootipTool.resources
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MapLabel.resources
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MeasureTool.resources
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TextInput.resources
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.GenerateResource.Cache
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.dll
+D:\SVN_DIR\Src\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.ResolveComReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Properties.Resources.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TootipTool.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MapLabel.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MeasureTool.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TextInput.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.GenerateResource.Cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csprojResolveAssemblyReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.ResolveComReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Properties.Resources.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TootipTool.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MapLabel.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MeasureTool.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TextInput.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.GenerateResource.Cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csprojResolveAssemblyReference.cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.ResolveComReference.cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Properties.Resources.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TootipTool.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MapLabel.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MeasureTool.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TextInput.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.GenerateResource.Cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.ArcMap.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\bin\Debug\MapFrame.Core.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csprojResolveAssemblyReference.cache
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.ResolveComReference.cache
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Properties.Resources.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TootipTool.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MapLabel.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.MeasureTool.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.Windows.TextInput.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.csproj.GenerateResource.Cache
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcMap\obj\Debug\MapFrame.ArcMap.pdb

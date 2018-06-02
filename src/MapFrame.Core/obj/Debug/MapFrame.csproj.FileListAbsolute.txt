@@ -1,0 +1,9 @@
+E:\Allen\Src\MapFrame\obj\Debug\MapFrame.Properties.Resources.resources
+E:\Allen\Src\MapFrame\obj\Debug\MapFrame.csproj.GenerateResource.Cache
+E:\Allen\Src\MapFrame\bin\Debug\MapFrame.dll
+E:\Allen\Src\MapFrame\bin\Debug\MapFrame.pdb
+E:\Allen\Src\MapFrame\obj\Debug\MapFrame.dll
+E:\Allen\Src\MapFrame\obj\Debug\MapFrame.pdb
+E:\Allen\Src\MapFrame\bin\Debug\GMap.NET.Core.dll
+E:\Allen\Src\MapFrame\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Allen\Src\MapFrame\obj\Debug\MapFrame.csprojResolveAssemblyReference.cache

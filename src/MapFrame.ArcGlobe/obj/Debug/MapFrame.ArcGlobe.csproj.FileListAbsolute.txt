@@ -1,0 +1,101 @@
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.dll
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csproj.ResolveComReference.cache
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.dll
+D:\SVN_DIR\Src\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.AxControls.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Carto.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Controls.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesFile.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Display.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Geodatabase.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Geometry.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.GlobeCore.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Output.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Server.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.System.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.SystemUI.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Version.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csproj.ResolveComReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.AxControls.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Carto.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Controls.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Display.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Geometry.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Output.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Server.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.System.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.SystemUI.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Version.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csprojResolveAssemblyReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csproj.ResolveComReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.AxControls.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Carto.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Controls.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Display.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Geometry.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Output.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Server.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.System.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.SystemUI.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Version.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csprojResolveAssemblyReference.cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csproj.ResolveComReference.cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.3DAnalyst.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.AxControls.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Carto.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Controls.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.DataSourcesFile.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Display.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Geodatabase.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Geometry.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.GlobeCore.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Output.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Server.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.System.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.SystemUI.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\ESRI\ESRI.ArcGIS.Version.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.ArcGlobe.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\bin\Debug\MapFrame.Core.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csprojResolveAssemblyReference.cache
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.csproj.ResolveComReference.cache
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.ArcGlobe\obj\Debug\MapFrame.ArcGlobe.pdb

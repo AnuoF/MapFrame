@@ -1,0 +1,960 @@
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Form1.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Properties.Resources.resources
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csproj.GenerateResource.Cache
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Config.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Test.exe.config
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Test.exe
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Test.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.GMap.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\GMap.NET.Core.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.GMap.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.GMap.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.Logic.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\GMap.NET.Core.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\obj\x86\Debug\MapFrame.Test.exe
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\obj\x86\Debug\MapFrame.Test.pdb
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\Image\hoverplane.png
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\Image\point.png
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\admin.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cities.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\continent.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Continents.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Countries.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\country.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\drainage.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\gaz.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\lakes.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\latlong.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\region.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\rivers.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\timezone.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\World Cities.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\World Regions.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\world30.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.xml
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\admin.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\admin.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\admin.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cities.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cities.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cities.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntry04.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntry04.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntry92.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntry92.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.GOLLE.3836.6708.sr.lock
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\continent.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\continent.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\continent.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Continents.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Countries.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\country.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\country.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\country.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\drainage.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\drainage.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\drainage.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\gaz.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\gaz.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\gaz.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\geogrid.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\geogrid.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\lakes.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\lakes.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\lakes.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\latlong.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\latlong.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\latlong.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\pol_org.dbf
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.GOLLE.3836.6708.sr.lock
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\region.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\region.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\region.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\rivers.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\rivers.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\rivers.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\timezone.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\timezone.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\timezone.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\utmzone.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\utmzone.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\World Cities.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\World Regions.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\world30.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\world30.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\world30.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.prj
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdi
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\World Map.lyr
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\World Map.mxd
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\world\World Map.pmf
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.ArcMap.dll
+D:\SVN_DIR\Src\GlobleSituationProject\GlobleSituation\MapFrame.Test\bin\Debug\MapFrame.ArcMap.pdb
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Config.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\Image\hoverplane.png
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\Image\point.png
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\admin.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cities.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\continent.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Continents.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Countries.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\country.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\drainage.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\gaz.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\lakes.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\latlong.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\region.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\rivers.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\timezone.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\World Cities.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\World Regions.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\world30.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\admin.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\admin.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\admin.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cities.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cities.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cities.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntry04.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntry04.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntry92.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntry92.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.GOLLE.3836.6708.sr.lock
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\continent.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\continent.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\continent.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Continents.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Countries.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\country.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\country.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\country.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\drainage.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\drainage.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\drainage.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\gaz.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\gaz.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\gaz.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\geogrid.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\geogrid.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\lakes.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\lakes.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\lakes.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\latlong.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\latlong.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\latlong.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\pol_org.dbf
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.GOLLE.3836.6708.sr.lock
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\region.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\region.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\region.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\rivers.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\rivers.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\rivers.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\timezone.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\timezone.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\timezone.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\utmzone.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\utmzone.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\World Cities.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\World Regions.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\world30.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\world30.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\world30.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.prj
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdi
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\World Map.lyr
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\World Map.mxd
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\world\World Map.pmf
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Test.exe.config
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Test.exe
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Test.pdb
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.ArcMap.dll
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.GMap.dll
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\GMap.NET.Core.dll
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.ArcMap.pdb
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.GMap.pdb
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.GMap.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\MapFrame.Logic.xml
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\SVN_DIR\Src\MapFrame.Test\bin\Debug\GMap.NET.Core.pdb
+D:\SVN_DIR\Src\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\Src\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Form1.resources
+D:\SVN_DIR\Src\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Properties.Resources.resources
+D:\SVN_DIR\Src\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csproj.GenerateResource.Cache
+D:\SVN_DIR\Src\MapFrame.Test\obj\x86\Debug\MapFrame.Test.exe
+D:\SVN_DIR\Src\MapFrame.Test\obj\x86\Debug\MapFrame.Test.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Config.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\Image\hoverplane.png
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\Image\point.png
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Continents.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Countries.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\World Cities.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\World Regions.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.GOLLE.3836.6708.sr.lock
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Continents.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Countries.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.GOLLE.3836.6708.sr.lock
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\World Cities.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\World Regions.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.prj
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdi
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\World Map.lyr
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\World Map.mxd
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\world\World Map.pmf
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.exe.config
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.exe
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.ArcMap.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.Core.dll
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.ArcMap.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.xml
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.Core.pdb
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csprojResolveAssemblyReference.cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Form1.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Properties.Resources.resources
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csproj.GenerateResource.Cache
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.exe
+D:\SVN_DIR\04编码\0401源代码\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Config.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\Image\hoverplane.png
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\Image\point.png
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Continents.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Countries.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Cities.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Regions.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.GOLLE.3836.6708.sr.lock
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Continents.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Countries.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.GOLLE.3836.6708.sr.lock
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Cities.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Regions.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.prj
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdi
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.lyr
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.mxd
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.pmf
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.exe.config
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.exe
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.ArcMap.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.Core.dll
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.ArcMap.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.xml
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.Core.pdb
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csprojResolveAssemblyReference.cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Form1.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Properties.Resources.resources
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csproj.GenerateResource.Cache
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.exe
+D:\Work\新建文件夹 (4)\三维地图框架\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Config.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\Image\hoverplane.png
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\Image\point.png
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Continents.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Countries.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Cities.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Regions.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.GOLLE.3836.6708.sr.lock
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Continents.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Countries.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.GOLLE.3836.6708.sr.lock
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Cities.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Regions.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.prj
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdi
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.lyr
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.mxd
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.pmf
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.exe.config
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.exe
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.ArcMap.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.Core.dll
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.ArcMap.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.xml
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.Core.pdb
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csprojResolveAssemblyReference.cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Form1.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Properties.Resources.resources
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csproj.GenerateResource.Cache
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.exe
+D:\Work\new\3d\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Config.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\Image\hoverplane.png
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\Image\point.png
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Continents.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Countries.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Cities.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Regions.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\10 x 10 Degree Graticule.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Areas.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\1992 Country Boundaries.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\admin.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Adminstrative Boundaries.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cities.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry04.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntry92.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\cntrywch.dbf.GOLLE.3836.6708.sr.lock
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\continent.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Continents.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Countries.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Country Outlines.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\country.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Drainage Systems.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\drainage.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Energy Consumption Per Capita.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\gaz.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\geogrid.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\GeoReference Lines.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Gross Domestic Product Per Capita Growth Rate.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\lakes.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Land Areas.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\latlong.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Lakes.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Major Rivers.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Male - Female Ratio.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Marine Biomes.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Ocean Background.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\pol_org.dbf.GOLLE.3836.6708.sr.lock
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Populated Places.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Population by State-Province.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\region.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\rivers.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\States and Provinces.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\Terrestrial Biomes.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\timezone.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UN Membership.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\UTM Grid.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\utmzone.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Cities.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Regions.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\World Time Zones.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\world30.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_mar.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdc.prj
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\data\wwf_terr.sdi
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.lyr
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.mxd
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\world\World Map.pmf
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.exe.config
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.exe
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Test.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.ArcMap.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.Core.dll
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.ArcMap.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Core.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.GMap.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\MapFrame.Logic.xml
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\bin\Debug\GMap.NET.Core.pdb
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csprojResolveAssemblyReference.cache
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Form1.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.Properties.Resources.resources
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.csproj.GenerateResource.Cache
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.exe
+D:\Work\Svn\Src\MapFrame\MapFrame.Test\obj\x86\Debug\MapFrame.Test.pdb
